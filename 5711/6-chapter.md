@@ -1,7 +1,7 @@
 # Basi Legani - 5711: Chapter 6 - Chabad.org
         
 
-At the conclusion of his _maamar_,[1](javascript:doFootnote\('1a115147'\);) the Rebbe Rayatz explainsוְהִנֵּה בְּסִיּוּם הַמַּאֲמָר מְבָאֵר,
+At the conclusion of his _maamar_,[1](javascript:doFootnote\('1a115147'\);) the Rebbe Rajatz explainsוְהִנֵּה בְּסִיּוּם הַמַּאֲמָר מְבָאֵר,
 
 that since “the essence of the _Shechinah_ was manifest in the lower realms,”אֲשֶׁר לִהְיוֹת כִּי מַה שֶּׁעִיקַּר שְׁכִינָה בַּתַּחְתּוֹנִים,
 
@@ -19,7 +19,7 @@ The folly of unholiness really does not require much explanation. We are all fam
 
 into the folly of holiness (_shtus_ dikedushah).לִשְׁטוּת דִּקְדֻשָּׁה,
 
-To exemplify this concept, the Rebbe refers to the narrative cited by the [Rebbe Rayatz](/library/article_cdo/aid/3573646/jewish/The-Previous-Rebbe.htm "The Previous Rebbe") in sec. 5 of his _[maamar](/multimedia/video_cdo/aid/1466847/jewish/Introduction-to-a-Chassidic-Discourse.htm "Introduction to a Chassidic Discourse")_ _Basi LeGani_. The Talmud[3](javascript:doFootnote\('3a115147'\);) relates an example of such conduct:
+To exemplify this concept, the Rebbe refers to the narrative cited by the [Rebbe Rajatz](/library/article_cdo/aid/3573646/jewish/The-Previous-Rebbe.htm "The Previous Rebbe") in sec. 5 of his _[maamar](/multimedia/video_cdo/aid/1466847/jewish/Introduction-to-a-Chassidic-Discourse.htm "Introduction to a Chassidic Discourse")_ _Basi LeGani_. The Talmud[3](javascript:doFootnote\('3a115147'\);) relates an example of such conduct:
 
 \[When\] Rav Shmuel bar Rav Yitzchak would dance \[at a marriage celebration\], he would juggle three (“twigs of myrtle,” _Rashi_). Rabbi Zeira \[reproved him\]: “The venerable sage is embarrassing us” (i.e., “making light of the respect due to Torah scholars through his undignified behavior,” _[Rashi](/library/article_cdo/aid/111831/jewish/Who-Was-Rashi.htm "Who Was Rashi?")_).
 
@@ -35,7 +35,7 @@ King David describes his intense love for [G‑d](/library/article_cdo/aid/43324
 
 Though this is an extremely lofty level of Divine service, we are granted assistance from the Rebbeim to attain it, for
 
-whatever my revered father-in-law, the Rebbe Rayatz – and all the Rebbeim – demanded of us, they demanded of themselves. And their service makes it easier for us to emulate them. וְהִנֵּה כָּל הָעִנְיָנִים שֶׁתָּבַע מֵאִתָּנוּ כ"ק מו"ח אַדְמוֹ"ר וּכְמוֹ כֵן שְׁאָר הַנְּשִׂיאִים קִיְּמוּ זֶה בְּעַצְמָם,
+whatever my revered father-in-law, the Rebbe Rajatz – and all the Rebbeim – demanded of us, they demanded of themselves. And their service makes it easier for us to emulate them. וְהִנֵּה כָּל הָעִנְיָנִים שֶׁתָּבַע מֵאִתָּנוּ כ"ק מו"ח אַדְמוֹ"ר וּכְמוֹ כֵן שְׁאָר הַנְּשִׂיאִים קִיְּמוּ זֶה בְּעַצְמָם,
 
 This motif follows our Sages’ interpretation of the verse,[7](javascript:doFootnote\('7a115147'\);) “He relates His words to Yaakov, His statutes and judgments to Yisrael.”וְהוּא עַל דֶּרֶךְ דְּרָשַׁת רַזַ"ל עַל הַפָּסוּק "מַגִּיד דְּבָרָיו לְיַעֲקֹב חֻקָּיו וּמִשְׁפָּטָיו לְיִשְׂרָאֵל"
 
@@ -125,7 +125,7 @@ I will travel to take care of this matter and will follow your instructions.”�
 
 However, the Rebbe [Rashab](/library/article_cdo/aid/272209/jewish/The-Rebbe-Rashab.htm "The Rebbe Rashab") did not agree: he undertook the journey himself and was successful.אֲבָל כ"ק אַדְמוֹ"ר נ"ע לֹא הִסְכִּים עַל זֶה וְנָסַע בְּעַצְמוֹ וְהִצְלִיחַ.
 
-Similarly, there are many stories of how my revered father-in-law, the Rebbe [Rayatz](/library/article_cdo/aid/3573646/jewish/The-Previous-Rebbe.htm "The Previous Rebbe") went out of his way to do material and spiritual favors, not only for the Jewish people as a whole, but also even for individuals.וְכֵן יֶשְׁנָם כַּמָּה סִפּוּרִים מִכ"ק מו"ח אַדְמוֹ"ר אוֹדוֹת הִשְׁתַּדְּלוּתוֹ לַעֲשׂוֹת טוֹבָה וַאֲפִלּוּ לְאִישׁ פְּרָטִי, בְּרוּחָנִיּוּת אוֹ בְּגַשְׁמִיּוּת.
+Similarly, there are many stories of how my revered father-in-law, the Rebbe [Rajatz](/library/article_cdo/aid/3573646/jewish/The-Previous-Rebbe.htm "The Previous Rebbe") went out of his way to do material and spiritual favors, not only for the Jewish people as a whole, but also even for individuals.וְכֵן יֶשְׁנָם כַּמָּה סִפּוּרִים מִכ"ק מו"ח אַדְמוֹ"ר אוֹדוֹת הִשְׁתַּדְּלוּתוֹ לַעֲשׂוֹת טוֹבָה וַאֲפִלּוּ לְאִישׁ פְּרָטִי, בְּרוּחָנִיּוּת אוֹ בְּגַשְׁמִיּוּת.
 
 He selflessly set himself aside in order to do so,וְהִנִּיחַ אֶת עַצְמוֹ עַל זֶה,
 
@@ -137,7 +137,7 @@ but was of no comparison to him at all.אֶלָּא שֶׁהָיָה שֶׁלּ�
 
 ### Summary
 
-In his _maamar_, the Rebbe Rayatz explains that the _Beis HaMikdash_ was the principal place of the revelation of the _Shechinah_. Since the dwelling for G‑d established in this world is fashioned through the transformation of darkness into light, that motif also had to feature in the _Beis HaMikdash_ and in the Sanctuary, for it was the place where the _Shechinah_ was primarily revealed. To highlight the transformation of darkness into light, the Sanctuary in the desert was made of acacia wood. _Shittim_, “acacia,” shares the same root letters as the word _shtus_, “folly.” The intent is that the folly of unholiness be transformed into the folly of holiness.
+In his _maamar_, the Rebbe Rajatz explains that the _Beis HaMikdash_ was the principal place of the revelation of the _Shechinah_. Since the dwelling for G‑d established in this world is fashioned through the transformation of darkness into light, that motif also had to feature in the _Beis HaMikdash_ and in the Sanctuary, for it was the place where the _Shechinah_ was primarily revealed. To highlight the transformation of darkness into light, the Sanctuary in the desert was made of acacia wood. _Shittim_, “acacia,” shares the same root letters as the word _shtus_, “folly.” The intent is that the folly of unholiness be transformed into the folly of holiness.
 
 The folly of holiness refers to Divine service and _[bittul](/multimedia/video_cdo/aid/697467/jewish/Get-Connected.htm "Get Connected")_ that _transcends_ the limits of intellect. Though this is an extremely lofty level of Divine service, we are granted assistance from the Rebbeim to attain it, for whatever the Rebbeim demanded of us, they demanded of themselves. Their service makes it easier for us to emulate their example.
 
@@ -221,7 +221,7 @@ Cf. [Eichah 4:8](/library/bible_cdo/aid/16460/jewish/Chapter-4.htm#v8 "Eichah 4:
 
 [16.](#footnoteRef16a115147)
 
-See Sefer HaSichos Kayitz 5700, p. 98; Sefer HaMaamarim 5711, p. 153; the Igros Kodesh of the Rebbe Rayatz, Vol. 4, p. 522.
+See Sefer HaSichos Kayitz 5700, p. 98; Sefer HaMaamarim 5711, p. 153; the Igros Kodesh of the Rebbe Rajatz, Vol. 4, p. 522.
 
 [17.](#footnoteRef17a115147)
 
@@ -233,7 +233,7 @@ Here, as was his constant practice, the Rebbe refers to the Rebbe Rashab as “�
 
 [19.](#footnoteRef19a115147)
 
-Note the Igros Kodesh of the Rebbe Rashab, Vol. 4, p. 245, where he writes, “I lack command of the local language.” The Rebbe Rayatz writes in his notes to that letter, “My revered father, the Rebbe, understood the local language thoroughly and did not require a translator at all. Even when complex matters were read to him in the local language, he understood. Nevertheless, he did not desire to speak in this language… and always used an interpreter. I asked him why he does not speak Russian… and he answered me with three rationales…, instructing me not to reveal them.”
+Note the Igros Kodesh of the Rebbe Rashab, Vol. 4, p. 245, where he writes, “I lack command of the local language.” The Rebbe Rajatz writes in his notes to that letter, “My revered father, the Rebbe, understood the local language thoroughly and did not require a translator at all. Even when complex matters were read to him in the local language, he understood. Nevertheless, he did not desire to speak in this language… and always used an interpreter. I asked him why he does not speak Russian… and he answered me with three rationales…, instructing me not to reveal them.”
 
 [20.](#footnoteRef20a115147)
 

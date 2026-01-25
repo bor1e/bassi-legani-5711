@@ -33,7 +33,7 @@ that the description of the _keilim_ as creations brought into being out of noth
 
 The intent is not that, in an absolute sense, they are entities of actual substance (_yesh_) that are brought into being from nothingness.אֵין הַכַּוָּנָה יֵשׁ מֵאַיִן מַמָּשׁ,
 
-For even the _keilim_ of _Atzilus_ are _Elokus_, G‑dliness, and cannot be described with the term _yesh_. Even though each _[Sefirah](/kabbalah/article_cdo/aid/380812/jewish/Emanations-Interact.htm "Emanations Interact")_ has its own identity – _Chochmah_ (“wisdom”) is distinct from _Binah_ (“understanding”); _Chessed_ (“kindness”) is distinct from _Gevurah_ (“might”) etc. – all of these (and the other six _Sefiros_) are subsumed within _G‑d’s_ light to the extent that they are totally identified with G‑dliness and do not see themselves as independent entities. For example, the _[Chessed](/kabbalah/article_cdo/aid/380796/jewish/Chesed-Gevura-Tiferet.htm "<i>Chesed, Gevura, & Tiferet</i>")_ of _Atzilus_ is the radiation of _G‑d’s_ love and kindness. In contrast, the _Chessed_ of _Beriah_ is the _angels_’ love for G‑d.
+For even the _keilim_ of _Atzilus_ are _Elokus_, G‑dliness, and cannot be described with the term _yesh_. Even though each _[Sefirah](/kabbalah/article_cdo/aid/380812/jewish/Emanations-Interact.htm "Emanations Interact")_ has its own identity – _Chochmah_ (“wisdom”) is distinct from _Binah_ (“understanding”); _Chessed_ (“kindness”) is distinct from _Gewurah_ (“might”) etc. – all of these (and the other six _Sefiros_) are subsumed within _G‑d’s_ light to the extent that they are totally identified with G‑dliness and do not see themselves as independent entities. For example, the _[Chessed](/kabbalah/article_cdo/aid/380796/jewish/Chesed-Gewura-Tiferet.htm "<i>Chesed, Gewura, & Tiferet</i>")_ of _Atzilus_ is the radiation of _G‑d’s_ love and kindness. In contrast, the _Chessed_ of _Beriah_ is the _angels_’ love for G‑d.
 
 Instead, they are considered as __yesh_ me’ayin_, new entities coming into being from nothingness, only in relation to the light that shines within them.כִּי אִם זֶהוּ דַּוְקָא לְגַבֵּי הָאוֹר,
 
@@ -53,19 +53,19 @@ Since both the lights and the _keilim_ of the _Sefiros_ of _Atzilus_ are revelat
 
 it is thus clear that the ultimate Divine objective in creation is not the higher worlds, since, as explained in sec. 4, this involves a descent,אִם כֵּן מוּבָן דְּאֵין הַכַּוָּנָה עוֹלָמוֹת הָעֶלְיוֹנִים
 
-but the objective is, instead, this material world where man will serve G‑d by subduing darkness and transforming it into light, as explained by the Rebbe Rayatz in his _maamar_ _Basi LeGani_ and elaborated upon in this _[maamar](/multimedia/video_cdo/aid/1466847/jewish/Introduction-to-a-Chassidic-Discourse.htm "Introduction to a Chassidic Discourse")_ in the subsequent sections.כִּי אִם הָעֲבוֹדָה בָּעוֹלָם הַזֶּה דְּאִתְכַּפְיָא וְאִתְהַפְּכָא.
+but the objective is, instead, this material world where man will serve G‑d by subduing darkness and transforming it into light, as explained by the Rebbe Rajatz in his _maamar_ _Basi LeGani_ and elaborated upon in this _[maamar](/multimedia/video_cdo/aid/1466847/jewish/Introduction-to-a-Chassidic-Discourse.htm "Introduction to a Chassidic Discourse")_ in the subsequent sections.כִּי אִם הָעֲבוֹדָה בָּעוֹלָם הַזֶּה דְּאִתְכַּפְיָא וְאִתְהַפְּכָא.
 
 Another question can be raised concerning the concept that our material world represents the purpose of creation. It is stated[4](javascript:doFootnote\('4a115146'\);)
 
 that, at present, our observance of _mitzvos_ increases the light within _Atzilus_.וְאַף שֶׁעַכְשָׁו הִנֵּה עַל יְדֵי עֲשִׂיַּת הַמִּצְוֹת מוֹסִיפִים אוֹרוֹת בָּאֲצִילוּת,
 
-If so, how can we then say that even at present, the ultimate objective of creation is specifically this world? Even if, as explained, in the Era of _Mashiach_, these lights will ultimately be revealed in this world, nevertheless, at present, it appears that the intent is the world of _Atzilus_.וְאִם כֵּן אֵיךְ אָנוּ אוֹמְרִים שֶׁגַּם עַכְשָׁו עִיקַּר הַכַּוָּנָה הָעוֹלָם הַזֶּה דַּוְקָא,
+If so, how can we then say that even at present, the ultimate objective of creation is specifically this world? Even if, as explained, in the Era of _Maschiach_, these lights will ultimately be revealed in this world, nevertheless, at present, it appears that the intent is the world of _Atzilus_.וְאִם כֵּן אֵיךְ אָנוּ אוֹמְרִים שֶׁגַּם עַכְשָׁו עִיקַּר הַכַּוָּנָה הָעוֹלָם הַזֶּה דַּוְקָא,
 
 The resolution to this question can be understood on the basis of the Rebbe Maharash’s explanation[5](javascript:doFootnote\('5a115146'\);) that these lights are, by way of analogy, “stored in a chest” in _Atzilus_.הִנֵּה עַל זֶה מְבָאֵר אַדְמוֹ"ר מהר"ש שֶׁאוֹרוֹת אֵלּוּ בָּאֲצִילוּת הֵם שָׁם כְּמֻנָּחִים בְּקֻפְסָא,
 
 For they are not intended for _Atzilus_כִּי אֵינָם בִּשְׁבִיל אֲצִילוּת,
 
-but for this lowly world, where they will be revealed with the arrival of _[Mashiach](/library/article_cdo/aid/332562/jewish/Moshiach-101.htm "Moshiach (Messiah) and the Future Redemption")_.כִּי אִם לְצֹרֶךְ עוֹלָם הַתַּחְתּוֹן
+but for this lowly world, where they will be revealed with the arrival of _[Maschiach](/library/article_cdo/aid/332562/jewish/Moshiach-101.htm "Moshiach (Messiah) and the Future Redemption")_.כִּי אִם לְצֹרֶךְ עוֹלָם הַתַּחְתּוֹן
 
 Indeed, they are not revealed in _Atzilus_ even at present when they are “stored” there. Thus the fact that our Divine service generates light in _Atzilus_ does not contradict the concept stated _above_: that the ultimate purpose of Creation is for G‑dliness to be drawn down into this material world.וְאֵינָם מִתְגַּלִּים בָּאֲצִילוּת.
 
@@ -85,7 +85,7 @@ and darkness is converted into light.”[8](javascript:doFootnote\('8a115146'\);
 
 It is written,[9](javascript:doFootnote\('9a115146'\);) “...like the superiority of light over darkness.” _Chassidus_[10](javascript:doFootnote\('10a115146'\);) explains that the phrase translated as “over darkness” actually reads _min hachoshech_, “from the darkness.” Implied is that there are two levels of light: ordinary light and a superior light that is produced by the transformation of darkness into light. _G‑d’s_ desire in creating our material world was to bring darkness into being and for man to transform that darkness into the higher quality of light.
 
-As the [Rebbe Rayatz](/library/article_cdo/aid/3573646/jewish/The-Previous-Rebbe.htm "The Previous Rebbe") explains in the _maamar_ _Basi LeGani_,[11](javascript:doFootnote\('11a115146'\);)וּכְמוֹ שֶׁמְּבָאֵר בְּהַמַּאֲמָר,
+As the [Rebbe Rajatz](/library/article_cdo/aid/3573646/jewish/The-Previous-Rebbe.htm "The Previous Rebbe") explains in the _maamar_ _Basi LeGani_,[11](javascript:doFootnote\('11a115146'\);)וּכְמוֹ שֶׁמְּבָאֵר בְּהַמַּאֲמָר,
 
 the totality of our Divine service involves transforming the folly of the forces of evil to the folly of holiness. (See the following section which elaborates on this theme.)שֶׁכָּל הָעֲבוֹדָה הוּא לַהֲפֹךְ הַשְּׁטוּת דִּלְעֻמַּת זֶה לִשְׁטוּת דִּקְדֻשָּׁה,
 

@@ -4,7 +4,7 @@
 
 After explaining at the beginning of the _maamar_ that the essence of the _Shechinah_ was originally manifest in this lowly world,וְהִנֵּה אַחֲרֵי שֶׁמְּבָאֵר בְּהַמַּאֲמָר דְּעִיקַּר שְׁכִינָה בַּתַּחְתּוֹנִים הָיְתָה,
 
-and that afterwards, Moshe (the seventh) drew it down specifically into this world, the Rebbe Rayatz goes on to say:וְגַם אַחַר כָּךְ הִמְשִׁיכָהּ מֹשֶׁה (הַשְּׁבִיעִי) לָאָרֶץ דַּוְקָא אוֹמֵר:
+and that afterwards, Moshe (the seventh) drew it down specifically into this world, the Rebbe Rajatz goes on to say:וְגַם אַחַר כָּךְ הִמְשִׁיכָהּ מֹשֶׁה (הַשְּׁבִיעִי) לָאָרֶץ דַּוְקָא אוֹמֵר:
 
 “G‑dliness was primarily revealed within the _Beis HaMikdash_,”וְעִיקַּר גִּלּוּי אֱלֹקוּת הָיָה בְּבֵית הַמִּקְדָּשׁ
 
@@ -22,13 +22,13 @@ This verse can be interpreted to mean that the righteous shall inherit ‘the ea
 
 because they cause ‘He Who dwells forever, exalted and holy is His name,’[3](javascript:doFootnote\('3a115099'\);) to dwell (i.e., to be drawn down)[4](javascript:doFootnote\('4a115099'\);) –מִפְּנֵי שֶׁהֵם מַשְׁכִּינִים (הַיְינוּ מַמְשִׁיכִים) בְּחִינַת שֹׁכֵן עַד מָרוֹם וְקָדוֹשׁ
 
-(the [Rebbe Rayatz](/library/article_cdo/aid/3573646/jewish/The-Previous-Rebbe.htm "The Previous Rebbe") does not explain the implication of the term ‘He Who dwells forever’ in the _maamar_;(הָעִנְיָן הַזֶּה דְּשׁוֹכֵן עַד אֵינוֹ מְבָאֵר בְּהַמַּאֲמָר,
+(the [Rebbe Rajatz](/library/article_cdo/aid/3573646/jewish/The-Previous-Rebbe.htm "The Previous Rebbe") does not explain the implication of the term ‘He Who dwells forever’ in the _maamar_;(הָעִנְיָן הַזֶּה דְּשׁוֹכֵן עַד אֵינוֹ מְבָאֵר בְּהַמַּאֲמָר,
 
 but the concept is explained in Likkutei Torah[5](javascript:doFootnote\('5a115099'\);) based on a teaching of the _Zohar_)[6](javascript:doFootnote\('6a115099'\);)וּמְבֹאָר הוּא בְּלִקּוּטֵי תּוֹרָה עַל פִּי מַאֲמַר הַזֹּהַר)
 
 – and be revealed in this physical world below.”שֶׁיִּהְיֶה בְּגִלּוּי לְמַטָּה,
 
-The _maamar_ of the Rebbe Rayatz continues: “This enables us to understand the interpretation of the verse, ‘I have come into My garden,’ as ‘I have come into My bridal chamber,’ into the place in which My Essence was originally revealed,”וְזֶהוּ בָּאתִי לְגַנִּי לִגְנוּנִי לְמָקוֹם שֶׁהָיָה עִקָּרוֹ בַּתְּחִלָּה,
+The _maamar_ of the Rebbe Rajatz continues: “This enables us to understand the interpretation of the verse, ‘I have come into My garden,’ as ‘I have come into My bridal chamber,’ into the place in which My Essence was originally revealed,”וְזֶהוּ בָּאתִי לְגַנִּי לִגְנוּנִי לְמָקוֹם שֶׁהָיָה עִקָּרוֹ בַּתְּחִלָּה,
 
 As mentioned, the fact that the verse states “My garden” and not “the garden” indicates that the _[Shechinah](/library/article_cdo/aid/2438527/jewish/The-Shechina.htm "Who Is Shechinah, And What Does She Want from My Life?")_ already shared a connection with that place.
 
@@ -36,13 +36,13 @@ As mentioned, the fact that the verse states “My garden” and not “the gard
 
 To explain:וְהָעִנְיָן הוּא
 
-(The Rebbe [Rayatz](/library/article_cdo/aid/3573646/jewish/The-Previous-Rebbe.htm "The Previous Rebbe") explains why the essence of the _Shechinah_ was manifest specifically in the lower realms.)(בֵּאוּר הָעִנְיָן לְהָבִין מִפְּנֵי מָה הָיְתָה עִיקַּר שְׁכִינָה בַּתַּחְתּוֹנִים דַּוְקָא)
+(The Rebbe [Rajatz](/library/article_cdo/aid/3573646/jewish/The-Previous-Rebbe.htm "The Previous Rebbe") explains why the essence of the _Shechinah_ was manifest specifically in the lower realms.)(בֵּאוּר הָעִנְיָן לְהָבִין מִפְּנֵי מָה הָיְתָה עִיקַּר שְׁכִינָה בַּתַּחְתּוֹנִים דַּוְקָא)
 
 The ultimate purpose for the creation and the progressive descent of the worlds isדְּהִנֵּה תַּכְלִית הַכַּוָּנָה בִּבְרִיאַת וְהִשְׁתַּלְשְׁלוּת הָעוֹלָמוֹת,
 
 that ‘[G‑d](/library/article_cdo/aid/433240/jewish/God.htm "God in Judaism") desired to have a dwelling place in the lower worlds.’”[7](javascript:doFootnote\('7a115099'\);)דְּנִתְאַוָּה הַקָּדוֹשׁ בָּרוּךְ הוּא לִהְיוֹת לוֹ יִתְבָּרֵךְ דִּירָה בַּתַּחְתּוֹנִים.
 
-The dwelling for _G‑d’s_ Essence is to be established through the Divine service of the Jewish people and will not be manifest in a complete fashion until the Era of _Mashiach_. Nevertheless, since this was _G‑d’s_ original intent, His Presence was manifest in the world from the very outset.
+The dwelling for _G‑d’s_ Essence is to be established through the Divine service of the Jewish people and will not be manifest in a complete fashion until the Era of _Maschiach_. Nevertheless, since this was _G‑d’s_ original intent, His Presence was manifest in the world from the very outset.
 
 The manifestation of His Presence can be understood as being comparable to a “mission statement,” i.e., immediately upon bringing the world into being, G‑d made the goal of its creation obvious.
 
@@ -220,7 +220,7 @@ See _Midrash_ Tanchuma, Parshas Naso, sec. 16; Parshas Bechukosai, sec. 3; Berei
 
 [8.](#footnoteRef8a115099)
 
-_Tanya_, loc. cit. As mentioned in the foreword, the Rebbe recited the _maamar_ in three sections and in each of the sections, he mentioned the five Rebbeim who preceded the Rebbe Rayatz.
+_Tanya_, loc. cit. As mentioned in the foreword, the Rebbe recited the _maamar_ in three sections and in each of the sections, he mentioned the five Rebbeim who preceded the Rebbe Rajatz.
 
 [9.](#footnoteRef9a115099)
 

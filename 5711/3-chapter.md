@@ -32,7 +32,7 @@ Therefore, it was Moshe who was privileged to have the Torah given through him.[
 
 וְהִנֵּה בֵּאֵר כ"ק מו"ח אַדְמוֹ"ר (בִּתְחִלַּת בּוֹאוֹ לַאֲמֶרִיקָה)
 
-(Soon after arriving in America) my revered father-in-law, the Rebbe Rayatz explained[2](javascript:doFootnote\('2a115098'\);) וְהִנֵּה בֵּאֵר כ"ק מו"ח אַדְמוֹ"ר (בִּתְחִלַּת בּוֹאוֹ לַאֲמֶרִיקָה)
+(Soon after arriving in America) my revered father-in-law, the Rebbe Rajatz explained[2](javascript:doFootnote\('2a115098'\);) וְהִנֵּה בֵּאֵר כ"ק מו"ח אַדְמוֹ"ר (בִּתְחִלַּת בּוֹאוֹ לַאֲמֶרִיקָה)
 
 that even when it is highlighted that the seventh of a series is most cherished,שֶׁגַּם בְּעִנְיָן דְּהַשְּׁבִיעִין חֲבִיבִין
 
@@ -40,27 +40,27 @@ the unique virtue of the first is apparent.נִכָּר מַעֲלַת הָרִ�
 
 For the meaning of “seventh” is “seventh from the first,” i.e., the first embarked on a unique path of Divine service which the seventh brought to consummate fulfillment.שֶׁהֲרֵי כָּל עִנְיַן שְׁבִיעִי הוּא שֶׁהוּא שְׁבִיעִי לָרִאשׁוֹן.
 
-The Rebbe Rayatz then explained the uniqueness of the first of the sevenוּבֵאֵר אָז מַעֲלָתוֹ שֶׁל הָרִאשׁוֹן
+The Rebbe Rajatz then explained the uniqueness of the first of the sevenוּבֵאֵר אָז מַעֲלָתוֹ שֶׁל הָרִאשׁוֹן
 
 – our forefather Avraham –שֶׁזֶּהוּ אַבְרָהָם אָבִינוּ,
 
 which he achieved because of his Divine serviceמִפְּנֵי עֲבוֹדָתוֹ,
 
-which he carried out with self-sacrificing devotion, _mesirus nefesh_.וְשֶׁהָיְתָה עֲבוֹדָתוֹ בִּמְסִירוּת נֶפֶשׁ.
+which he carried out with self-sacrificing devotion, _Messirut Nefesch_.וְשֶׁהָיְתָה עֲבוֹדָתוֹ בִּמְסִירוּת נֶפֶשׁ.
 
 Not content with the _above_,וְאֵינוֹ מִסְתַּפֵּק בָּזֶה עֲדַיִן,
 
-the [Rebbe Rayatz](/library/article_cdo/aid/3573646/jewish/The-Previous-Rebbe.htm "The Previous Rebbe") adds (though this is seemingly not relevant to his central theme)וּמוֹסִיף עוֹד (אַף דְּלִכְאוֹרָה אֵין זֶה נוֹגֵעַ שָׁם לְגוּף הָעִנְיָן)
+the [Rebbe Rajatz](/library/article_cdo/aid/3573646/jewish/The-Previous-Rebbe.htm "The Previous Rebbe") adds (though this is seemingly not relevant to his central theme)וּמוֹסִיף עוֹד (אַף דְּלִכְאוֹרָה אֵין זֶה נוֹגֵעַ שָׁם לְגוּף הָעִנְיָן)
 
-that Avraham carried out his Divine service with _[mesirus nefesh](/library/article_cdo/aid/788008/jewish/What-is-the-Jewish-View-on-Martyrdom.htm "What is the Jewish View on Martyrdom?")_ and yet, he did not seek _mesirus nefesh_.דְּאֹפֶן הַמְּסִירוּת נֶפֶשׁ שֶׁלּוֹ הָיָה שֶׁלֹּא חִפֵּשׂ מְסִירוּת נֶפֶשׁ,
+that Avraham carried out his Divine service with _[Messirut Nefesch](/library/article_cdo/aid/788008/jewish/What-is-the-Jewish-View-on-Martyrdom.htm "What is the Jewish View on Martyrdom?")_ and yet, he did not seek _Messirut Nefesch_.דְּאֹפֶן הַמְּסִירוּת נֶפֶשׁ שֶׁלּוֹ הָיָה שֶׁלֹּא חִפֵּשׂ מְסִירוּת נֶפֶשׁ,
 
-This marked the distinction between Avraham’s _mesirus nefesh_ and that of Rabbi Akiva.שֶׁזֶּהוּ הַהֶפְרֵשׁ בֵּין הַמְּסִירוּת נֶפֶשׁ דְּאַבְרָהָם אָבִינוּ לְהַמְּסִירוּת נֶפֶשׁ דְּרַבִּי עֲקִיבָא,
+This marked the distinction between Avraham’s _Messirut Nefesch_ and that of Rabbi Akiva.שֶׁזֶּהוּ הַהֶפְרֵשׁ בֵּין הַמְּסִירוּת נֶפֶשׁ דְּאַבְרָהָם אָבִינוּ לְהַמְּסִירוּת נֶפֶשׁ דְּרַבִּי עֲקִיבָא,
 
-Rabbi Akiva set _mesirus nefesh_ as a goal for his Divine service, saying:[3](javascript:doFootnote\('3a115098'\);)דְּהַמְּסִירוּת נֶפֶשׁ דְּרַבִּי עֲקִיבָא הָיָה ווָאס עֶר הָאט גֶעזוּכְט מְסִירוּת נֶפֶשׁ:
+Rabbi Akiva set _Messirut Nefesch_ as a goal for his Divine service, saying:[3](javascript:doFootnote\('3a115098'\);)דְּהַמְּסִירוּת נֶפֶשׁ דְּרַבִּי עֲקִיבָא הָיָה ווָאס עֶר הָאט גֶעזוּכְט מְסִירוּת נֶפֶשׁ:
 
-“When will I be afforded the opportunity for _mesirus nefesh_ so that I may actualize it?”מָתַי יָבוֹא לְיָדִי וַאֲקַיְּמֶנּוּ,
+“When will I be afforded the opportunity for _Messirut Nefesch_ so that I may actualize it?”מָתַי יָבוֹא לְיָדִי וַאֲקַיְּמֶנּוּ,
 
-Avraham’s _mesirus nefesh_, by contrast, was incidental to his actual service.מַה שֶּׁאֵין כֵּן בְּאַבְרָהָם הִנֵּה הַמְּסִירוּת נֶפֶשׁ שֶׁלּוֹ הָיָה בְּדֶרֶךְ אַגַּב.
+Avraham’s _Messirut Nefesch_, by contrast, was incidental to his actual service.מַה שֶּׁאֵין כֵּן בְּאַבְרָהָם הִנֵּה הַמְּסִירוּת נֶפֶשׁ שֶׁלּוֹ הָיָה בְּדֶרֶךְ אַגַּב.
 
 He knew that the main object of Divine service was creating an awareness of _G‑d’s_ Presence,דְּאַבְרָהָם יָדַע שֶׁעִיקַּר הָעֲבוֹדָה הוּא
 
@@ -70,13 +70,13 @@ More particularly, as our Sages emphasize, his service was entirely outward orie
 
 i.e., he motivated the wayfarers he met to also proclaim the name of G‑d.26אַז יֶענֶער זאָל אוֹיךְ שְׁרַייְעֶן,
 
-Avraham knew that these efforts would meet opposition. Nevertheless, he continued unfazed with the resolve that if in the course of these efforts, _mesirus nefesh_ would be required, he would manifest that quality as well.וְאִם נִצְרָךְ לָזֶה בְּדֶרֶךְ אַגַּב מְסִירוּת נֶפֶשׁ, הִנֵּה גַּם זֶה יֶשְׁנוֹ.
+Avraham knew that these efforts would meet opposition. Nevertheless, he continued unfazed with the resolve that if in the course of these efforts, _Messirut Nefesch_ would be required, he would manifest that quality as well.וְאִם נִצְרָךְ לָזֶה בְּדֶרֶךְ אַגַּב מְסִירוּת נֶפֶשׁ, הִנֵּה גַּם זֶה יֶשְׁנוֹ.
 
-In this manner, his _mesirus nefesh_ surpassed that of Rabbi Akiva. What is the positive dimension of _mesirus nefesh_? That one _transcends_ his own identity entirely and gives himself over to G‑d in a complete manner. When one carries out such service because he appreciates its greatness, he cannot be said to be transcending himself entirely.
+In this manner, his _Messirut Nefesch_ surpassed that of Rabbi Akiva. What is the positive dimension of _Messirut Nefesch_? That one _transcends_ his own identity entirely and gives himself over to G‑d in a complete manner. When one carries out such service because he appreciates its greatness, he cannot be said to be transcending himself entirely.
 
-For Rabbi Akiva, _mesirus nefesh_ was a personal goal, the zenith of his Divine service. Thus, while on one hand, he rose _above_ self-concern – indeed, he gave his life for the sanctification of _G‑d’s_ name – nevertheless, he saw _mesirus nefesh_ as the most complete expression of his lifelong quest for spiritual fulfillment.
+For Rabbi Akiva, _Messirut Nefesch_ was a personal goal, the zenith of his Divine service. Thus, while on one hand, he rose _above_ self-concern – indeed, he gave his life for the sanctification of _G‑d’s_ name – nevertheless, he saw _Messirut Nefesch_ as the most complete expression of his lifelong quest for spiritual fulfillment.
 
-Avraham, by contrast, was totally _above_ self-concern. He did not consider even the highest of personal attainments – the service of G‑d with _mesirus nefesh_ – as an objective. His sole motivation was to publicize _G‑d’s_ Presence.
+Avraham, by contrast, was totally _above_ self-concern. He did not consider even the highest of personal attainments – the service of G‑d with _Messirut Nefesch_ – as an objective. His sole motivation was to publicize _G‑d’s_ Presence.
 
 So great was Avraham’s Divine service and self-sacrificeוְכָל כַּךְ גָּדְלָה מַעֲלַת עֲבוֹדָתוֹ וְהַמְּסִירוּת נֶפֶשׁ שֶׁלּוֹ,
 
@@ -84,7 +84,7 @@ that the fact that Moshe was privileged to have the [Torah](/library/article_cdo
 
 was because “all those who are seventh are cherished,”הוּא מִטַּעַם כִּי הַשְּׁבִיעִין חֲבִיבִין,
 
-i.e., he was the seventh to the first, the heir of Avraham’s Divine service and _mesirus nefesh_. As such, even at the peak of his greatness,שֶׁהוּא שְׁבִיעִי לָרִאשׁוֹן.
+i.e., he was the seventh to the first, the heir of Avraham’s Divine service and _Messirut Nefesch_. As such, even at the peak of his greatness,שֶׁהוּא שְׁבִיעִי לָרִאשׁוֹן.
 
 the Holy One, blessed be He, “told Moshe (referring to Avraham), ‘Do not stand in the place of the greats.’”[6](javascript:doFootnote\('6a115098'\);)וְהַקָּדוֹשׁ בָּרוּךְ הוּא אָמַר לוֹ (לְמֹשֶׁה) בִּמְקוֹם גְּדוֹלִים (אַבְרָהָם) אַל תַּעֲמֹד.
 
@@ -136,7 +136,7 @@ and indeed in certain ways it may be contrary to our will,וּבְכַמָּה �
 
 nevertheless, “all those who are seventh are cherished.”מִכָּל מָקוֹם הִנֵּה כָּל הַשְּׁבִיעִין חֲבִיבִין,
 
-We are now in the era of Ikvesa diMeshicha, the time when the approaching footsteps of _Mashiach_ can be heard;שֶׁנִּמְצָאִים אֲנַחְנוּ בְּעִקְבְתָא דִּמְשִׁיחָא,
+We are now in the era of Ikvesa diMeshicha, the time when the approaching footsteps of _Maschiach_ can be heard;שֶׁנִּמְצָאִים אֲנַחְנוּ בְּעִקְבְתָא דִּמְשִׁיחָא,
 
 indeed, we are at the conclusion of this period.בְּסִיּוּמָא דְּעִקְבְתָא,
 
@@ -150,7 +150,7 @@ into our lowly world.וּבַתַּחְתּוֹנִים דַּוְקָא.
 
 This section focuses on the statement “All those who are seventh are cherished,” explaining that the seventh is cherished not because of a virtue dependent on his choice, his desires, or his individual achievements in Divine service, but because he is the seventh – because he perpetuates the heritage of his forebears. Thus, through the achievements of the seventh, the unique virtue of the first is apparent.
 
-The first of the chain of righteous men who preceded Moshe was Avraham. Avraham was distinguished by the uniqueness of his _mesirus nefesh_. It is possible to view _mesirus nefesh_ as a personal goal, the most complete expression of one’s lifelong quest for spiritual fulfillment. Avraham, by contrast, did not consider _mesirus nefesh_ as a personal objective. His sole motivation was to publicize _G‑d’s_ Presence; if _mesirus nefesh_ was necessary to accomplish that purpose, he was willing to make that commitment as well. Because Moshe was the seventh, the sixth heir of Avraham’s spiritual legacy, he was privileged to draw the _Shechinah_ back into this world.
+The first of the chain of righteous men who preceded Moshe was Avraham. Avraham was distinguished by the uniqueness of his _Messirut Nefesch_. It is possible to view _Messirut Nefesch_ as a personal goal, the most complete expression of one’s lifelong quest for spiritual fulfillment. Avraham, by contrast, did not consider _Messirut Nefesch_ as a personal objective. His sole motivation was to publicize _G‑d’s_ Presence; if _Messirut Nefesch_ was necessary to accomplish that purpose, he was willing to make that commitment as well. Because Moshe was the seventh, the sixth heir of Avraham’s spiritual legacy, he was privileged to draw the _Shechinah_ back into this world.
 
 Similarly, our generation, the seventh generation of _Chabad_ Chassidism, has the mission to complete the process of drawing the _Shechinah_ back down to the earth again.
 

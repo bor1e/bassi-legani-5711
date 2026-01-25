@@ -27,9 +27,9 @@ Similarly, we must say that our subjugation and transformation of the challengin
 
 Were all the phases of the descent brought about from Above, it would be obvious that the descent was for the purpose of an ascent, for everything that comes from Above is obviously intended for the good. Since, however, several phases in the descent, beginning with the sin of the Tree of Knowledge, came about through man’s acts, how can it be said that the descent is structured from Above to lead to an ascent? Nevertheless, as our Sages explain,[2](javascript:doFootnote\('2a115148'\);) although the actual descent was caused by man’s deeds, it was intended from Above with the objective that it lead to a higher light.
 
-The higher level of Divine revelation that will characterize the dwelling for G‑d that will be revealed in the Era of _Mashiach_ is
+The higher level of Divine revelation that will characterize the dwelling for G‑d that will be revealed in the Era of _Maschiach_ is
 
-explained in the _[maamar](/multimedia/video_cdo/aid/1466847/jewish/Introduction-to-a-Chassidic-Discourse.htm "Introduction to a Chassidic Discourse")_ _Basi LeGani_ from the Rebbe Rayatz, by quoting the _Zohar_:[3](javascript:doFootnote\('3a115148'\);) “Through the subjugation of the _sitra achra_,[4](javascript:doFootnote\('4a115148'\);) the glory of G‑d will be revealed throughout all the worlds” –וְכַמְּבֹאָר בְּהַמַּאֲמָר דְּעַל יְדֵי דְּאִתְכַּפְיָא סִטְרָא אַחֲרָא, אִסְתַּלַּק יְקָרָא דְּקֻדְשָׁא בְּרִיךְ הוּא בְּכוּלְּהוּ עָלְמִין,
+explained in the _[maamar](/multimedia/video_cdo/aid/1466847/jewish/Introduction-to-a-Chassidic-Discourse.htm "Introduction to a Chassidic Discourse")_ _Basi LeGani_ from the Rebbe Rajatz, by quoting the _Zohar_:[3](javascript:doFootnote\('3a115148'\);) “Through the subjugation of the _sitra achra_,[4](javascript:doFootnote\('4a115148'\);) the glory of G‑d will be revealed throughout all the worlds” –וְכַמְּבֹאָר בְּהַמַּאֲמָר דְּעַל יְדֵי דְּאִתְכַּפְיָא סִטְרָא אַחֲרָא, אִסְתַּלַּק יְקָרָא דְּקֻדְשָׁא בְּרִיךְ הוּא בְּכוּלְּהוּ עָלְמִין,
 
 The term _istalek_ (אסתלק), translated _above_ as “revealed,” literally means “depart” or “withdraw.” It is used in this context because it refers to a level of light that is fundamentally “withdrawn” – entirely transcendent – from the worlds. By using this term, the _maamar_ implies that even when this light is revealed, its transcendent nature is apparent.
 
@@ -71,7 +71,7 @@ At present, we lack the purifying influence of the Red Heifer,וְהִנֵּה �
 
 for “as a result of our sins, we were exiled from our land.”[8](javascript:doFootnote\('8a115148'\);)כִּי מִפְּנֵי חֲטָאֵינוּ הָיָה צָרִיךְ לִהְיוֹת דַּוְקָא גָּלִינוּ מֵאַרְצֵנוּ,
 
-But there has transpired the passing of __tzaddik_im_, i.e., the passing of the [Rebbe Rayatz](/library/article_cdo/aid/3573646/jewish/The-Previous-Rebbe.htm "The Previous Rebbe").אֲבָל אֵרַע סִלּוּקָן שֶׁל צַדִּיקִים.
+But there has transpired the passing of __tzaddik_im_, i.e., the passing of the [Rebbe Rajatz](/library/article_cdo/aid/3573646/jewish/The-Previous-Rebbe.htm "The Previous Rebbe").אֲבָל אֵרַע סִלּוּקָן שֶׁל צַדִּיקִים.
 
 Concerning the passing of __tzaddik_im_, we find two statements from our Sages:וְהִנֵּה בְּעִנְיַן סִלּוּקָן שֶׁל צַדִּיקִים יֵשׁ בָּזֶה ב' מַאֲמָרֵי רַזַ"ל:
 
@@ -83,7 +83,7 @@ All the _above_ will lead to the prodigious G‑dly revelation implied by the te
 
 Concerning the meaning of the term _histalkus_,וּפֵרוּשׁ עִנְיַן הִסְתַּלְּקוּת
 
-all the Rebbeim – the [Alter Rebbe](/library/article_cdo/aid/77049/jewish/The-Alter-Rebbe.htm "The Alter Rebbe"), the Mitteler Rebbe, the Tzemach Tzedek, the Rebbe Maharash, the Rebbe Rashab, and my revered father-in-law, the Rebbe Rayatz – have explained[11](javascript:doFootnote\('11a115148'\);)פֵּרְשׁוּ כָּל הָרֶבֵּיִים כ"ק אַדְמוֹ"ר הַזָּקֵן, כ"ק אַדְמוֹ"ר הָאֶמְצָעִי, כ"ק אַדְמוֹ"ר הַצֶּמַח צֶדֶק, כ"ק אַדְמוֹ"ר מהר"ש, כ"ק אַדְמוֹ"ר נ"ע וכ"ק מו"ח אַדְמוֹ"ר,
+all the Rebbeim – the [Alter Rebbe](/library/article_cdo/aid/77049/jewish/The-Alter-Rebbe.htm "The Alter Rebbe"), the Mitteler Rebbe, the Tzemach Tzedek, the Rebbe Maharash, the Rebbe Rashab, and my revered father-in-law, the Rebbe Rajatz – have explained[11](javascript:doFootnote\('11a115148'\);)פֵּרְשׁוּ כָּל הָרֶבֵּיִים כ"ק אַדְמוֹ"ר הַזָּקֵן, כ"ק אַדְמוֹ"ר הָאֶמְצָעִי, כ"ק אַדְמוֹ"ר הַצֶּמַח צֶדֶק, כ"ק אַדְמוֹ"ר מהר"ש, כ"ק אַדְמוֹ"ר נ"ע וכ"ק מו"ח אַדְמוֹ"ר,
 
 that the intent of the term _histalkus_, although it is used to refer to a person’s passing, is not, Heaven forbid, an ascent upward, i.e., that the person who has passed has left our midst,שֶׁאֵין הַכַּוָּנָה בְּפֵרוּשׁ תֵּבַת הִסְתַּלְּקוּת שֶׁהוּא עֲלִיָּה לְמַעְלָה חַס וְשָׁלוֹם,
 
@@ -91,7 +91,7 @@ but rather that he is still found with us below,כִּי אִם הַכַּוָּ
 
 though in a transcendent and lofty manner.אֶלָּא שֶׁהוּא בִּבְחִינַת רוֹמְמוּת.
 
-The influence of the Rebbe [Rayatz](/library/article_cdo/aid/3573646/jewish/The-Previous-Rebbe.htm "The Previous Rebbe") empowers us to persevere in our Divine service and accomplish the unique mission entrusted to us. To state it succinctly:
+The influence of the Rebbe [Rajatz](/library/article_cdo/aid/3573646/jewish/The-Previous-Rebbe.htm "The Previous Rebbe") empowers us to persevere in our Divine service and accomplish the unique mission entrusted to us. To state it succinctly:
 
 This is what is demanded of us, the seventh generation from the Alter Rebbe.וְזֶה תּוֹבְעִים מֵאִתָּנוּ, דּוֹר הַשְּׁבִיעִי לכ"ק אַדְמוֹ"ר הַזָּקֵן,
 

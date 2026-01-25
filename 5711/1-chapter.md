@@ -189,7 +189,7 @@ See the _sichos_ of _Yud_ Shvat, 5732, regarding the implications of that metaph
 
 [5.](#footnoteRef5a115101)
 
-_Tanya_, chs. 41, 52. In each of the three sections of this _maamar_, the Rebbe quotes teachings of the five Rebbeim who preceded the Rebbe Rayatz.
+_Tanya_, chs. 41, 52. In each of the three sections of this _maamar_, the Rebbe quotes teachings of the five Rebbeim who preceded the Rebbe Rajatz.
 
 [6.](#footnoteRef6a115101)
 

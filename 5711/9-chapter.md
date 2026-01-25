@@ -11,7 +11,7 @@ The power to do so has been granted to us through the conduct of the Alter Rebbe
 
 and his successors,וּמִמֶּנּוּ וָאֵילָךְ
 
-up to and including the conduct displayed by my revered father-in-law, the Rebbe Rayatz.עַד, וְעַד בִּכְלָל, הַהַנְהָגָה שֶׁהֶרְאָנוּ כ"ק מו"ח אַדְמוֹ"ר,
+up to and including the conduct displayed by my revered father-in-law, the Rebbe Rajatz.עַד, וְעַד בִּכְלָל, הַהַנְהָגָה שֶׁהֶרְאָנוּ כ"ק מו"ח אַדְמוֹ"ר,
 
 They have paved the way and granted us the powers necessary to follow in their footsteps.שֶׁהֵם סָלְלוּ אֶת הַדֶּרֶךְ וְנָתְנוּ לָנוּ כֹּחוֹת עַל זֶה.
 
@@ -23,11 +23,11 @@ Serving in this fashion will draw down the essence of the _Shechinah_ into this 
 
 to an even greater extent than was revealed prior to the sin of the Tree of Knowledge. For, as explained in sec. 7, the intent of the descent caused by that sin was to draw down a level of G‑dliness higher than that revealed beforehand. This is alluded toוְיִהְיֶה עוֹד בְּמַדְרֵגָה נַעֲלֵית יוֹתֵר גַּם מִקֹּדֶם הַחֵטְא,
 
-in the verse describing _Mashiach_,[2](javascript:doFootnote\('2a115150'\);) “And he shall be exalted greatly...,”וּכְמוֹ שֶׁכָּתוּב בַּמָּשִׁיחַ "וְנִשָּׂא... מְאֹד"
+in the verse describing _Maschiach_,[2](javascript:doFootnote\('2a115150'\);) “And he shall be exalted greatly...,”וּכְמוֹ שֶׁכָּתוּב בַּמָּשִׁיחַ "וְנִשָּׂא... מְאֹד"
 
 reaching an even higher level than _Adam_, and, indeed, even higher than his level before the sin of the Tree of Knowledge.[3](javascript:doFootnote\('3a115150'\);)יוֹתֵר מֵאָדָם הָרִאשׁוֹן וַאֲפִלּוּ כְּמוֹ שֶׁהָיָה קֹדֶם הַחֵטְא.
 
-_Adam_ (אדם) and _meod_ (מאד), translated as “greatly” in the _above_ verse, share the same letters. Nevertheless, _Adam_ implies a structure, while _meod_, the level of _[Mashiach](/library/article_cdo/aid/332562/jewish/Moshiach-101.htm "Moshiach (Messiah) and the Future Redemption")_, points to the transcendence of all structures.
+_Adam_ (אדם) and _meod_ (מאד), translated as “greatly” in the _above_ verse, share the same letters. Nevertheless, _Adam_ implies a structure, while _meod_, the level of _[Maschiach](/library/article_cdo/aid/332562/jewish/Moshiach-101.htm "Moshiach (Messiah) and the Future Redemption")_, points to the transcendence of all structures.
 
 And my revered father-in-law, the Rebbe, who “bore our ailments and carried our pains”[4](javascript:doFootnote\('4a115150'\);)וכ"ק מו"ח אדמו"ר אֲשֶׁר אֶת חֳלָיֵנוּ הוּא נָשָׂא וּמַכְאֹבֵינוּ סְבָלָם,
 
@@ -83,7 +83,7 @@ May we be privileged to see and meet with[14](javascript:doFootnote\('14a115150'
 
 ### Summary
 
-The power to carry out the service described previously has been granted to us through the conduct of the [Alter Rebbe](/library/article_cdo/aid/77049/jewish/The-Alter-Rebbe.htm "The Alter Rebbe"), the first of the Rebbeim and his successors, up to and including the Rebbe Rayatz. They have paved the way and granted us the powers necessary to follow in their footsteps.
+The power to carry out the service described previously has been granted to us through the conduct of the [Alter Rebbe](/library/article_cdo/aid/77049/jewish/The-Alter-Rebbe.htm "The Alter Rebbe"), the first of the Rebbeim and his successors, up to and including the Rebbe Rajatz. They have paved the way and granted us the powers necessary to follow in their footsteps.
 
 Emulating their Divine service will draw down the essence of the _[Shechinah](/library/article_cdo/aid/2438527/jewish/The-Shechina.htm "Who Is Shechinah, And What Does She Want from My Life?")_ into this physical and material world to an even greater extent than was revealed prior to the sin of the Tree of Knowledge.
 

@@ -1,17 +1,5 @@
 # Basi Legani - 5711: Chapter 8 - Chabad.org
 
-[« Previous
-
-Chapter 7
-
-](/therebbe/article_cdo/aid/115148/jewish/Chapter-7.htm "Basi Legani - 5711: Chapter 7")
-
-[Next »
-
-Chapter 9
-
-](/therebbe/article_cdo/aid/115150/jewish/Chapter-9.htm "Basi Legani - 5711: Chapter 9")
-
         
 
 The _above_ clarifies the significance of the passing of a _tzaddik_.[1](javascript:doFootnote\('1a115149'\);)וְזֶהוּ עִנְיַן צַדִּיקָא דְּאִתְפְּטַר,
@@ -22,7 +10,7 @@ nevertheless, all this did not suffice.הִנֵּה כָּל זֶה לֹא הִ�
 
 For there to be the revelation of the glory of G‑d throughout all the worlds,וּבִכְדֵי שֶׁיִּהְיֶה אִסְתַּלַּק יְקָרָא דְּקֻדְשָׁא בְּרִיךְ הוּא בְּכוּלְּהוּ עָלְמִין,
 
-there also occurred the passing of __[tzaddik](/library/article_cdo/aid/2367724/jewish/Tzaddik.htm "What Is a Tzaddik?")_im_, i.e., the passing of the Rebbe Rayatz,הָיָה גַּם כֵּן עִנְיַן סִלּוּקָן שֶׁל צַדִּיקִים,
+there also occurred the passing of __[tzaddik](/library/article_cdo/aid/2367724/jewish/Tzaddik.htm "What Is a Tzaddik?")_im_, i.e., the passing of the Rebbe Rajatz,הָיָה גַּם כֵּן עִנְיַן סִלּוּקָן שֶׁל צַדִּיקִים,
 
 something considered not only as severe as the destruction of the _Beis HaMikdash_, but even more severe.שֶׁזֶּה קָשֶׁה לֹא רַק כַּחֻרְבָּן כִּי אִם יוֹתֵר מֵהַחֻרְבָּן.
 
@@ -36,7 +24,7 @@ and that the uniqueness of the seventh of a series is that he is seventh to the 
 
 The path of the first was that he sought nothing for himself,שֶׁהַנְהָגַת הָרִאשׁוֹן הָיָה שֶׁלֹּא חִפֵּשׂ לְעַצְמוֹ כְּלוּם
 
-not even _mesirus nefesh_, as explained _above_ (sec. 3), when contrasting the _[mesirus nefesh](/library/article_cdo/aid/788008/jewish/What-is-the-Jewish-View-on-Martyrdom.htm "What is the Jewish View on Martyrdom?")_ of Avraham and Rabbi Akiva,וַאֲפִלּוּ לֹא מְסִירוּת נֶפֶשׁ.
+not even _Messirut Nefesch_, as explained _above_ (sec. 3), when contrasting the _[Messirut Nefesch](/library/article_cdo/aid/788008/jewish/What-is-the-Jewish-View-on-Martyrdom.htm "What is the Jewish View on Martyrdom?")_ of Avraham and Rabbi Akiva,וַאֲפִלּוּ לֹא מְסִירוּת נֶפֶשׁ.
 
 for he knew that the sole purpose of his existence was to “proclaim there the name of G‑d, eternal L-rd.”כִּי יָדַע שֶׁכָּל עִנְיָנוֹ הוּא כְּמוֹ שֶׁכָּתוּב "וַיִּקְרָא שָׁם בְּשֵׁם הֲוָיָ׳ אֵ-ל עוֹלָם".
 
@@ -82,9 +70,9 @@ instead, (אֵ-ל עוֹלָם) G‑dliness and the world are entirely one. Ther
 
 ### Summary
 
-The ultimate objective of the passing of the [Rebbe Rayatz](/library/article_cdo/aid/3573646/jewish/The-Previous-Rebbe.htm "The Previous Rebbe") is that “the glory of G‑d be revealed” in a manner reflected by the term _istalek_.
+The ultimate objective of the passing of the [Rebbe Rajatz](/library/article_cdo/aid/3573646/jewish/The-Previous-Rebbe.htm "The Previous Rebbe") is that “the glory of G‑d be revealed” in a manner reflected by the term _istalek_.
 
-It is demanded from every one of us that we know that we are living in the seventh generation, and that the uniqueness of the seventh in a series is that he is seventh to the first, and carries out the legacy of the first. The path of Avraham _Avinu_, the first of the seven, was that he sought nothing for himself, not even _mesirus nefesh_. He knew that the sole purpose of his existence was to publicize G‑dliness. Not only did he personally make known _G‑d’s_ Presence, he motivated others to do so. This is the mission incumbent on us.
+It is demanded from every one of us that we know that we are living in the seventh generation, and that the uniqueness of the seventh in a series is that he is seventh to the first, and carries out the legacy of the first. The path of Avraham _Avinu_, the first of the seven, was that he sought nothing for himself, not even _Messirut Nefesch_. He knew that the sole purpose of his existence was to publicize G‑dliness. Not only did he personally make known _G‑d’s_ Presence, he motivated others to do so. This is the mission incumbent on us.
 
 באתי לגני, יו"ד שבט, תשי"א Lubavitcher Rebbe
 

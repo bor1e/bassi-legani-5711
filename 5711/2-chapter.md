@@ -5,7 +5,7 @@ Regarding the statement cited _above_: “The essence of the _Shechinah_ was man
 
 from the conceptual flow of the _Midrash_, it can be understood as implying that the term _tachtonim_, “lower realms,” refers to this physical world.מְבֹאָר מֵהַמִּדְרָשׁ דְּתַחְתּוֹנִים קָאֵי עַל עוֹלָם הַזֶּה הַגַּשְׁמִי,
 
-At times, the term _tachtonim_ can refer to the worlds of __Beriah_, _Yetzirah__, and _Asiyah_, which are “lower,” and of a different nature than _Atzilus_. (For as the Rebbe Rayatz explains in his _maamar_,[1](javascript:doFootnote\('1a115097'\);) _[Atzilus](/kabbalah/article_cdo/aid/431124/jewish/Close-to-the-Light.htm "Close to the Light")_ is entirely identified with G‑dliness, while the worlds of __[Beriah](/kabbalah/article_cdo/aid/431125/jewish/The-World-of-Creation.htm "The World of Creation")_, _[Yetzirah](/kabbalah/article_cdo/aid/431126/jewish/Forming-Time-and-Space.htm "Forming Time and Space")__, and _[Asiyah](/kabbalah/article_cdo/aid/431127/jewish/Action-and-the-Physical.htm "Action and the Physical")_ are characterized by independent existence.) More particularly, _tachtonim_ is occasionally used to refer to the spiritual world of _Asiyah_ which is lower, i.e., far less refined, than the worlds of _Beriah_ and _Yetzirah_. Nevertheless, in this _[Midrash](/library/article_cdo/aid/2398444/jewish/Midrash.htm "Midrash")_, the intent of the term is clearly this physical world.
+At times, the term _tachtonim_ can refer to the worlds of __Beriah_, _Yetzirah__, and _Asiyah_, which are “lower,” and of a different nature than _Atzilus_. (For as the Rebbe Rajatz explains in his _maamar_,[1](javascript:doFootnote\('1a115097'\);) _[Atzilus](/kabbalah/article_cdo/aid/431124/jewish/Close-to-the-Light.htm "Close to the Light")_ is entirely identified with G‑dliness, while the worlds of __[Beriah](/kabbalah/article_cdo/aid/431125/jewish/The-World-of-Creation.htm "The World of Creation")_, _[Yetzirah](/kabbalah/article_cdo/aid/431126/jewish/Forming-Time-and-Space.htm "Forming Time and Space")__, and _[Asiyah](/kabbalah/article_cdo/aid/431127/jewish/Action-and-the-Physical.htm "Action and the Physical")_ are characterized by independent existence.) More particularly, _tachtonim_ is occasionally used to refer to the spiritual world of _Asiyah_ which is lower, i.e., far less refined, than the worlds of _Beriah_ and _Yetzirah_. Nevertheless, in this _[Midrash](/library/article_cdo/aid/2398444/jewish/Midrash.htm "Midrash")_, the intent of the term is clearly this physical world.
 
 For the _Midrash_ proceeds to explain that because of the sin of the Tree of Knowledge, the _[Shechinah](/library/article_cdo/aid/2438527/jewish/The-Shechina.htm "Who Is Shechinah, And What Does She Want from My Life?")_ withdrew, ascending from the earth to heaven,וּכְמוֹ שֶׁמְּבָאֵר דְּעַל יְדֵי חֵטְא עֵץ הַדַּעַת נִסְתַּלְּקָה הַשְּׁכִינָה מֵאֶרֶץ לָרָקִיעַ,
 
@@ -13,7 +13,7 @@ and at the Giving of the Torah on Mt. Sinai, G‑d “‘came into His garden’
 
 the primary dimension of the withdrawal of the Divine Presence that came about as a result of sin was brought about specifically by the sin of the Tree of Knowledge. For it was as a result of that sin that the Divine Presence withdrew from the earth.וְעִיקַּר הַסִּלּוּק שֶׁנַּעֲשָׂה עַל יְדֵי הַחֵטְא הוּא בְּחֵטְא עֵץ הַדַּעַת דַּוְקָא.
 
-The _Midrash_, and thus the [Rebbe Rayatz](/library/article_cdo/aid/3573646/jewish/The-Previous-Rebbe.htm "The Previous Rebbe") in his discourse, mention seven sins. Nevertheless, the Rebbe Rayatz places the sin of the Tree of Knowledge in its own category. To explain: There is a relationship between the seriousness of a sin and its effect.
+The _Midrash_, and thus the [Rebbe Rajatz](/library/article_cdo/aid/3573646/jewish/The-Previous-Rebbe.htm "The Previous Rebbe") in his discourse, mention seven sins. Nevertheless, the Rebbe Rajatz places the sin of the Tree of Knowledge in its own category. To explain: There is a relationship between the seriousness of a sin and its effect.
 
 With regard to the seriousness of the sin,וּכְמוֹ שֶׁבְּעִנְיַן הַחֵטְא,
 
@@ -39,11 +39,11 @@ This was brought about by the sin of the Tree of Knowledge.שֶׁזֶּה נַע
 
 It caused the withdrawal of the _Shechinah_ from the earth to heaven.שֶׁעַל יְדֵי זֶה נִסְתַּלְּקָה הַשְּׁכִינָה מֵאֶרֶץ לָרָקִיעַ,
 
-This also explains why (in the _[maamar](/multimedia/video_cdo/aid/1466847/jewish/Introduction-to-a-Chassidic-Discourse.htm "Introduction to a Chassidic Discourse")_) the Rebbe [Rayatz](/library/article_cdo/aid/3573646/jewish/The-Previous-Rebbe.htm "The Previous Rebbe") does not include the sin of the Tree of Knowledge together with the sins of Cain and Enoshוְזֶהוּ גַּם כֵּן הַטַּעַם שֶׁאֵינוֹ מְצָרֵף (בְּהַמַּאֲמָר) חֵטְא עֵץ הַדַּעַת עִם הַחֲטָאִים דְּקַיִן וֶאֱנוֹשׁ
+This also explains why (in the _[maamar](/multimedia/video_cdo/aid/1466847/jewish/Introduction-to-a-Chassidic-Discourse.htm "Introduction to a Chassidic Discourse")_) the Rebbe [Rajatz](/library/article_cdo/aid/3573646/jewish/The-Previous-Rebbe.htm "The Previous Rebbe") does not include the sin of the Tree of Knowledge together with the sins of Cain and Enoshוְזֶהוּ גַּם כֵּן הַטַּעַם שֶׁאֵינוֹ מְצָרֵף (בְּהַמַּאֲמָר) חֵטְא עֵץ הַדַּעַת עִם הַחֲטָאִים דְּקַיִן וֶאֱנוֹשׁ
 
 but lists it separately.וְחוֹשֵׁב זֶה בִּפְנֵי עַצְמוֹ,
 
-The _Midrash_ lists the seven sins that caused the _Shechinah_ to withdraw from the earth and ascend to the higher levels of the heavens in one continuum. In the _maamar_ _Basi LeGani_, the Rebbe Rayatz places an emphasis on the sin of the Tree of Knowledge, and merely mentions in brief or omits entirely the other sins that caused the further ascent of the _Shechinah_. The rationale for the distinction is
+The _Midrash_ lists the seven sins that caused the _Shechinah_ to withdraw from the earth and ascend to the higher levels of the heavens in one continuum. In the _maamar_ _Basi LeGani_, the Rebbe Rajatz places an emphasis on the sin of the Tree of Knowledge, and merely mentions in brief or omits entirely the other sins that caused the further ascent of the _Shechinah_. The rationale for the distinction is
 
 that the sins of Cain and Enosh, as well as the later sins, caused the _Shechinah_ to ascend merely from one heaven to the next,לְפִי שֶׁבְּהַחֲטָאִים דְּקַיִן וֶאֱנוֹשׁ נִסְתַּלְּקָה הַשְּׁכִינָה מֵרָקִיעַ לָרָקִיעַ,
 
@@ -55,17 +55,17 @@ is what primarily affects us,זֶה בְּעִקָּר נוֹגֵעַ לָנוּ
 
 it is also the fundamental aspect of the withdrawal. For what is of primary importance is that the _Shechinah_ be manifest in this world.הִנֵּה זֶהוּ גַּם עִיקַּר עִנְיַן הַסִּלּוּק.
 
-After mentioning the effect caused by the sin of the Tree of Knowledge and the other sins, the Rebbe Rayatz continues his discourse by quoting the conclusion of the _Midrash_ which highlights the reversal of this process:(וּמַמְשִׁיךְ בַּמַּאֲמָר)
+After mentioning the effect caused by the sin of the Tree of Knowledge and the other sins, the Rebbe Rajatz continues his discourse by quoting the conclusion of the _Midrash_ which highlights the reversal of this process:(וּמַמְשִׁיךְ בַּמַּאֲמָר)
 
 “Afterwards, seven righteous men arose whose Divine service drew the Divine Presence into this world.וְאַחַר כָּךְ עָמְדוּ ז' צַדִּיקִים וְהוֹרִידוּ אֶת הַשְּׁכִינָה לְמַטָּה,
 
 Through the merit of Avraham, the _Shechinah_ was brought down from the seventh heaven to the sixth....”אַבְרָהָם זָכָה וְהוֹרִיד אֶת הַשְּׁכִינָה מֵרָקִיעַ ז׳ לְו׳ כוּ'
 
-(The Rebbe Rayatz abridges his citation of the _Midrash_ and concludes:)(וּמְקַצֵּר בָּזֶה וּמְסַיֵּם)
+(The Rebbe Rajatz abridges his citation of the _Midrash_ and concludes:)(וּמְקַצֵּר בָּזֶה וּמְסַיֵּם)
 
 “...until Moshe, the seventh of these righteous men –עַד כִּי מֹשֶׁה שֶׁהוּא הַשְּׁבִיעִי
 
-here, the Rebbe Rayatz adds a parenthetic statement from another _Midrash_:[4](javascript:doFootnote\('4a115097'\);)
+here, the Rebbe Rajatz adds a parenthetic statement from another _Midrash_:[4](javascript:doFootnote\('4a115097'\);)
 
 (“And all those who are seventh are cherished”) –(וְכָל הַשְּׁבִיעִין חֲבִיבִין)
 
@@ -129,6 +129,6 @@ One might then ask: How was the sin of the Tree of Knowledge possible? There are
 
 [4.](#footnoteRef4a115097)
 
-Vayikra Rabbah 29:11. This _Midrash_ has no direct connection with the _Midrash_ from _Shir HaShirim_ Rabbah, “I came into My garden,” which serves as the theme of the _maamar_. It is cited by the Rebbe Rayatz in connection with this section: that the primary step in drawing down the _Shechinah_ was accomplished by Moshe who drew it down to this physical world. Why was Moshe able to accomplish this? Because he was the seventh (as mentioned here and explained in sec. 3 of this _maamar_).~br~It is worth noting that the _Midrash_ beginning with the words _Basi LeGani_, “I came into My garden,” is cited by the Rebbe Rayatz in several _maamar_im, {e.g., the _maamar_ entitled B’Etzem HaYom HaZeh, 5683 (Sefer HaMaamarim 5682-5683, p. 173ff.); the _maamar_ entitled _Basi LeGani_, 5686 (Sefer HaMaamarim 5686, p. 231ff.); the _maamar_ entitled Padeh BiShalom, 5687 (Sefer HaMaamarim 5687, p. 83); the _maamar_ entitled Tik’u, 5691 (Sefer HaMaamarim 5691, p. 11); the _maamar_ entitled _Basi LeGani_, 5692 (Sefer HaMaamarim 5692, p. 288), et al. In many of those _maamar_im, Moshe’s merit in being the seventh is not mentioned at all. Why then is it mentioned in the _maamar_ released for _Yud_ Shvat, 5710? Chassidim have interpreted this as an allusion to the seventh generation of _Chabad_ which dawned on that day, as emphasized in sec. 3 of this _maamar_. See also Sefer HaSichos, Vol. 2, p. 400, note 81.~br~(It is also mentioned in the _maamar_im cited _above_ that are associated with Beis Nissan, the _yahrzeit_ of the Rebbe Rashab, because when counting from the Baal Shem Tov, the founder of Chassidism, the Rebbe Rashab was the leader of the seventh generation.)
+Vayikra Rabbah 29:11. This _Midrash_ has no direct connection with the _Midrash_ from _Shir HaShirim_ Rabbah, “I came into My garden,” which serves as the theme of the _maamar_. It is cited by the Rebbe Rajatz in connection with this section: that the primary step in drawing down the _Shechinah_ was accomplished by Moshe who drew it down to this physical world. Why was Moshe able to accomplish this? Because he was the seventh (as mentioned here and explained in sec. 3 of this _maamar_).~br~It is worth noting that the _Midrash_ beginning with the words _Basi LeGani_, “I came into My garden,” is cited by the Rebbe Rajatz in several _maamar_im, {e.g., the _maamar_ entitled B’Etzem HaYom HaZeh, 5683 (Sefer HaMaamarim 5682-5683, p. 173ff.); the _maamar_ entitled _Basi LeGani_, 5686 (Sefer HaMaamarim 5686, p. 231ff.); the _maamar_ entitled Padeh BiShalom, 5687 (Sefer HaMaamarim 5687, p. 83); the _maamar_ entitled Tik’u, 5691 (Sefer HaMaamarim 5691, p. 11); the _maamar_ entitled _Basi LeGani_, 5692 (Sefer HaMaamarim 5692, p. 288), et al. In many of those _maamar_im, Moshe’s merit in being the seventh is not mentioned at all. Why then is it mentioned in the _maamar_ released for _Yud_ Shvat, 5710? Chassidim have interpreted this as an allusion to the seventh generation of _Chabad_ which dawned on that day, as emphasized in sec. 3 of this _maamar_. See also Sefer HaSichos, Vol. 2, p. 400, note 81.~br~(It is also mentioned in the _maamar_im cited _above_ that are associated with Beis Nissan, the _yahrzeit_ of the Rebbe Rashab, because when counting from the Baal Shem Tov, the founder of Chassidism, the Rebbe Rashab was the leader of the seventh generation.)
 
  
