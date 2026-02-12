@@ -4,8 +4,6 @@ hebrew_title: ""
 source: "Basi Legani 5711"
 ---
 
-# Vorwort
-
 **Der historische Kontext: Jud Schewat 5711 (1951)**
 
 In der Nacht von Jud Schewat 5711 (17. Januar 1951) war der „kleine Saal" (die kleine Synagoge) in 770 Eastern Parkway bis auf den letzten Platz gefüllt. Es war die erste *Jahrzeit* des Vorherigen Rebbe (des Frierdiker Rebbe, Rabbi Yosef Yitzchak Schneersohn). Ein ganzes Jahr lang hatten die Chassidim seinen Schwiegersohn, Rabbi Menachem Mendel Schneerson, angefleht, die Führung zu übernehmen, doch er hatte dies stets bescheiden abgelehnt.
@@ -40,13 +38,16 @@ Der Rebbe betont, dass dies nicht nur durch intellektuelles Studium erreicht wir
 
 :::dedication
 Original in English with free explanation by *Eli Tougher*
+
 From the *Sichos in English Collection*
 
 Der hebräische Text unterliegt dem Urheberrecht des *Vaad Hanachos B'Lahak*, zu deren Dank wir verpflichtet sind, denn das Verdienst der Vielen wird durch sie ermöglicht.
 
 Ins Deutsche übertragen von *Elijahu Borodin*
+
 Jud Schewat, 5786 – Nürnberg
 
 © Chabad Nürnberg
+
 Verwendung und Vervielfältigung erwünscht
 :::

@@ -188,7 +188,61 @@
 
 // 2. INHALTSVERZEICHNIS
 #pagebreak()
-#outline(title: text(1.4em, fill: chaptercolor, "Inhalt"), indent: auto, depth: 3)
+
+#context {
+  // 1. Überschrift manuell setzen
+  align(center, text(1.5em, fill: chaptercolor, "Inhalt"))
+  v(1.5em)
+
+  // 2. Alle Überschriften (Headings) abrufen, die im Outline sein sollen
+  let elems = query(heading.where(outlined: true))
+  
+  // Temporäre Speicher für die Unterkapitel
+  let sub-items = ()
+  let has-previous = false
+
+  for el in elems {
+    if el.level == 1 {
+      // A. Wenn wir ein neues Kapitel erreichen, drucken wir erst die 
+      // Unterkapitel des VORHERIGEN Kapitels (falls vorhanden)
+      if sub-items.len() > 0 {
+        pad(left: 1.5em, bottom: 0.6em, {
+          set text(size: 0.9em, fill: black.lighten(30%))
+          set par(leading: 0.5em) // Engerer Zeilenabstand für die Liste
+          sub-items.join(" · ")
+        })
+        sub-items = () // Liste leeren für das neue Kapitel
+      } else if has-previous {
+        // Falls das vorherige Kapitel keine Unterkapitel hatte, etwas Abstand
+        v(0.5em)
+      }
+
+      // B. Das Hauptkapitel drucken (Zeile mit Seitenzahl)
+      link(el.location())[
+        #block(width: 100%, spacing: 0.5em)[
+          #text(weight: "bold", fill: chaptercolor, el.body)
+          #box(width: 1fr, repeat[ . ]) // Die Pünktchenlinie
+          #counter(page).at(el.location()).first()
+        ]
+      ]
+      has-previous = true
+      
+    } else {
+      // C. Es ist ein Unterkapitel (Level 2, 3 etc.)
+      // Wir speichern es nur in der Liste, drucken es aber noch nicht
+      sub-items.push(link(el.location(), el.body))
+    }
+  }
+
+  // D. Ganz am Ende: Die Unterkapitel des allerletzten Kapitels drucken
+  if sub-items.len() > 0 {
+    pad(left: 1.5em, bottom: 0.6em, {
+      set text(size: 0.9em, fill: black.lighten(30%))
+      set par(leading: 0.5em)
+      sub-items.join(" · ")
+    })
+  }
+}
 
 // 3. VORWORT (generated from input/5711/00-vorwort.md)
 {{VORWORT}}
