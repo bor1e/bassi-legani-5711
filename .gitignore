@@ -1,0 +1,8 @@
+output/
+venv/
+__pycache__/
+.DS_Store
+*.pdf
+*.epub
+temp_*.md
+*.log

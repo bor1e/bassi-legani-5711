@@ -36,7 +36,7 @@ TRANSLATION STYLE GUIDE
 2. TERMINOLOGY:
    - Transliterate known terms (italicized): *Schechina*, *Teschuwa*, *Mizwot*.
    - Translate structural terms: 
-     - Siman -> Kapitel
+     - Siman -> Abschnitt
      - Se'if -> Absatz
    - See provided glossary for Kabbalistic terms (e.g., *Sefirot*, *Azilut*).
 
@@ -47,13 +47,13 @@ OUTPUT FORMAT TEMPLATE
 You must output RAW MARKDOWN code only.
 
 ---
-title: "Kapitel X"
+title: "Abschnitt X"
 hebrew_title: "INSERT HEBREW TITLE"
-source: "Basi Legani 5711"
+source: "Bassi Legani 5711"
 author: "Der Rebbe"
 ---
 
-## Kapitel X
+## Abschnitt X
 
 :::verse
 :hebrew:

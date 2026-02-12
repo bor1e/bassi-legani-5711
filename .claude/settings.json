@@ -2,8 +2,7 @@
   "automaticCodeReview": {
     "enabled": true,
     "fileExtensions": [
-      "ts",
-      "tsx"
+      "py"
     ],
     "rulesFile": ".claude/automatic-code-review/rules.md"
   }

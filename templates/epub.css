@@ -1,0 +1,139 @@
+/* epub.css */
+
+/* General Body Settings */
+body {
+    font-family: "Linux Libertine", "Times New Roman", serif;
+    line-height: 1.5;
+    margin: 0;
+    padding: 0 5px;
+    color: #333;
+}
+
+/* Headings */
+h1 {
+    color: #8B4513;
+    text-align: center;
+    margin-top: 1em;
+    margin-bottom: 1.5em;
+    /* Force new page for every H1 (Chapter title) */
+    page-break-before: always;
+}
+
+h2,
+h3 {
+    color: #8B4513;
+    margin-top: 1.5em;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 0.3em;
+}
+
+/* Hebrew Text Styling */
+span.hebrew,
+.hebrew-line {
+    font-family: "SBL Hebrew", "David CLM", serif;
+    direction: rtl;
+    unicode-bidi: embed;
+}
+
+/* Verse Block 
+   Uses 'avoid' to prevent a page break separating 
+   the Hebrew from the German translation.
+*/
+div.verse {
+    margin: 1.5em 0;
+    padding: 0.5em 0;
+    page-break-inside: avoid;
+}
+
+div.verse .hebrew-line {
+    text-align: right;
+    display: block;
+    margin-bottom: 0.4em;
+    font-size: 1.15em;
+    color: #000;
+}
+
+div.verse .german-line {
+    text-align: left;
+    display: block;
+    color: #444;
+}
+
+/* Infobox (Practical Lessons) */
+div.infobox {
+    background-color: #fafafa;
+    border-top: 4px solid #8B4513;
+    border-bottom: 1px solid #ddd;
+    padding: 1em;
+    margin: 2em 0;
+    font-style: italic;
+    color: #333;
+    page-break-inside: avoid;
+}
+
+/* Dedication Box */
+div.dedication {
+    text-align: center;
+    border-top: 1px solid #8B4513;
+    border-bottom: 1px solid #8B4513;
+    padding: 1.5em 1em;
+    margin: 3em 1em;
+    font-style: italic;
+    color: #555;
+    page-break-inside: avoid;
+}
+
+/* Commentary */
+div.commentary {
+    background-color: #FAFAFA;
+    border-left: 4px solid #8B4513;
+    padding: 0.8em 1em;
+    margin: 1.5em 0;
+    font-style: italic;
+    color: #444;
+}
+
+/* Summary */
+div.summary {
+    background-color: #F0F0F0;
+    border: 1px solid #8B4513;
+    border-radius: 4px;
+    padding: 1em;
+    margin: 2em 0;
+}
+
+div.summary strong {
+    color: #8B4513;
+    display: block;
+    margin-bottom: 0.5em;
+    text-transform: uppercase;
+    font-size: 0.9em;
+    letter-spacing: 0.05em;
+}
+
+/* Glossary */
+div.glossary-entry {
+    margin: 1em 0;
+    padding-bottom: 0.5em;
+    border-bottom: 1px dashed #eee;
+}
+
+div.glossary-entry strong {
+    color: #8B4513;
+    font-size: 1.05em;
+}
+
+/* Footnotes */
+div.footnote {
+    font-size: 0.85em;
+    color: #666;
+    margin-bottom: 0.5em;
+    padding-left: 1em;
+    border-left: 2px solid #ddd;
+}
+
+div.footnote sup {
+    color: #8B4513;
+    font-weight: bold;
+    margin-right: 0.3em;
+}

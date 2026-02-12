@@ -1,4 +1,4 @@
-## Kapitel 1
+## Abschnitt 1
 
 :::verse
 :hebrew:
