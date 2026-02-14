@@ -41,20 +41,17 @@ jobs:
       - name: Install Python dependencies
         run: pip install -r requirements.txt
 
-      - name: Inject version into Vorwort
-        run: sed -i 's/{{VERSION}}/${{ steps.tag_version.outputs.new_tag }}/g' input/5711/00-vorwort.md
-
       - name: Build EPUB
-        run: python scripts/build_epub.py input/5711/[0-9]*.md -o output/5711/epub/book.epub
+        run: python scripts/build_epub.py input/5711/[0-9]*.md -o output/5711/epub/book.epub --version ${{ steps.tag_version.outputs.new_tag }}
 
       - name: Build PDF A4
         run: |
-          python scripts/build_pdf.py input/5711/[0-9]*.md -o output/5711/pdf-a4 --template templates/typst/book-a4.typ
+          python scripts/build_pdf.py input/5711/[0-9]*.md -o output/5711/pdf-a4 --template templates/typst/book-a4.typ --version ${{ steps.tag_version.outputs.new_tag }}
           typst compile --font-path fonts/ output/5711/pdf-a4/book.typ
 
       - name: Build PDF A5
         run: |
-          python scripts/build_pdf.py input/5711/[0-9]*.md -o output/5711/pdf-a5 --template templates/typst/book-a5.typ
+          python scripts/build_pdf.py input/5711/[0-9]*.md -o output/5711/pdf-a5 --template templates/typst/book-a5.typ --version ${{ steps.tag_version.outputs.new_tag }}
           typst compile --font-path fonts/ output/5711/pdf-a5/book.typ
 
       - uses: stefanzweifel/git-auto-commit-action@v5

@@ -212,7 +212,7 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('input', nargs='+', help='Input markdown files')
     parser.add_argument('-o', '--output', default='book.epub', help='Output file')
-    parser.add_argument('--version', default=None, help='Version string to inject (replaces {{VERSION}} in content)')
+    parser.add_argument('--version', required=True, help='Version string to inject (replaces {{VERSION}} in content)')
     args = parser.parse_args()
 
     build_epub([Path(p) for p in args.input], Path(args.output), version=args.version)

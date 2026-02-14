@@ -241,8 +241,9 @@ class MarkdownParser:
 
     def _parse_footnote(self, line: str) -> Footnote:
         match = re.search(r':::footnote\s+(\d+)', line)
-        number = int(match.group(1)) if match else 0
-        return Footnote(number, self._collect_block_text())
+        if not match:
+            raise ValueError(f"Malformed footnote marker: '{line}'. Expected ':::footnote N' where N is a number.")
+        return Footnote(int(match.group(1)), self._collect_block_text())
 
     def _parse_heading(self, line: str, level: int) -> Heading:
         self.pos += 1
@@ -383,10 +384,10 @@ if __name__ == '__main__':
     parser.add_argument('input', nargs='+', help='Input markdown files')
     parser.add_argument('-o', '--output', help='Output dir')
     parser.add_argument('--template', default=os.path.join(os.path.dirname(__file__), '..', 'templates', 'typst', 'book-a4.typ'), help='Template file')
-    parser.add_argument('--version', default=None, help='Version string to inject (replaces {{VERSION}} in content)')
+    parser.add_argument('--version', required=True, help='Version string to inject (replaces {{VERSION}} in content)')
     args = parser.parse_args()
 
     if args.input:
-        out = Path(args.output) if args.output else Path('.')
+        out = Path(args.output)
         out.mkdir(parents=True, exist_ok=True)
         build_book([Path(p) for p in args.input], out, Path(args.template), version=args.version)

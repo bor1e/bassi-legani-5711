@@ -18,36 +18,38 @@ pip install -r requirements.txt
 
 ## Build
 
+`--version` is required for all builds. Local output goes to `build/` (gitignored).
+
 ```bash
-./build a4                        # PDF A4 (two-column)
-./build a5                        # PDF A5 (single-column booklet)
-./build epub                      # EPUB
-./build all                       # all formats
-./build a4 --version v1.2.3      # inject version string
+./build a4 --version v1.2.3      # PDF A4 (two-column)
+./build a5 --version v1.2.3      # PDF A5 (single-column booklet)
+./build epub --version v1.2.3    # EPUB
+./build all --version v1.2.3     # all formats
 ```
 
 ### Manual build (without wrapper)
 
 ```bash
 # EPUB
-python scripts/build_epub.py input/5711/[0-9]*.md -o output/5711/epub/book.epub
+python scripts/build_epub.py input/5711/[0-9]*.md -o build/epub/book.epub --version v1.2.3
 
 # PDF A4
-python scripts/build_pdf.py input/5711/[0-9]*.md -o output/5711/pdf-a4 --template templates/typst/book-a4.typ
-typst compile --font-path fonts/ output/5711/pdf-a4/book.typ
+python scripts/build_pdf.py input/5711/[0-9]*.md -o build/pdf-a4 --template templates/typst/book-a4.typ --version v1.2.3
+typst compile --font-path fonts/ build/pdf-a4/book.typ
 
 # PDF A5
-python scripts/build_pdf.py input/5711/[0-9]*.md -o output/5711/pdf-a5 --template templates/typst/book-a5.typ
-typst compile --font-path fonts/ output/5711/pdf-a5/book.typ
+python scripts/build_pdf.py input/5711/[0-9]*.md -o build/pdf-a5 --template templates/typst/book-a5.typ --version v1.2.3
+typst compile --font-path fonts/ build/pdf-a5/book.typ
 ```
 
-Both `build_pdf.py` and `build_epub.py` accept `--version <version>` to replace `{{VERSION}}` placeholders in the source files (without modifying them). The CI pipeline injects this automatically via git tags.
+`--version` replaces `{{VERSION}}` placeholders in the source files (without modifying them). The CI pipeline injects this automatically via git tags.
 
 ## Project Structure
 
 ```
 input/          Source markdown translations (custom format with :::verse, :::commentary blocks)
-output/         Generated files (gitignored)
+build/          Local build output (gitignored)
+output/         CI-generated release artifacts (tracked)
 scripts/        Build scripts (markdown -> epub/typst)
 templates/      Typst templates (A4/A5) and EPUB CSS
 fonts/          Hebrew font (SBL Hebrew)

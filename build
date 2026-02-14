@@ -5,11 +5,11 @@ SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
 INPUT="$SCRIPT_DIR/input/5711/[0-9]*.md"
 SCRIPTS="$SCRIPT_DIR/scripts"
 TEMPLATES="$SCRIPT_DIR/templates/typst"
-OUTPUT="$SCRIPT_DIR/output/5711"
+OUTPUT="$SCRIPT_DIR/dist"
 FONTS="$SCRIPT_DIR/fonts"
 
 usage() {
-    echo "Usage: ./build <target> [--version <version>]"
+    echo "Usage: ./build <target> --version <version>"
     echo ""
     echo "Targets:"
     echo "  a4      Build PDF (A4 two-column)"
@@ -18,7 +18,7 @@ usage() {
     echo "  all     Build all formats"
     echo ""
     echo "Options:"
-    echo "  --version <version>  Version string to inject (e.g. v1.2.3)"
+    echo "  --version <version>  (required) Version string to inject (e.g. v1.2.3)"
     exit 1
 }
 
@@ -27,31 +27,36 @@ usage() {
 TARGET="$1"
 shift
 
-VERSION_FLAG=()
+VERSION=""
 while [[ $# -gt 0 ]]; do
     case "$1" in
-        --version) VERSION_FLAG=(--version "$2"); shift 2 ;;
+        --version) VERSION="$2"; shift 2 ;;
         *) echo "Unknown option: $1"; usage ;;
     esac
 done
 
+if [[ -z "$VERSION" ]]; then
+    echo "Error: --version is required"
+    usage
+fi
+
 build_a4() {
     echo "=== Building PDF A4 ==="
-    python "$SCRIPTS/build_pdf.py" $INPUT -o "$OUTPUT/pdf-a4" --template "$TEMPLATES/book-a4.typ" "${VERSION_FLAG[@]}"
+    python "$SCRIPTS/build_pdf.py" $INPUT -o "$OUTPUT/pdf-a4" --template "$TEMPLATES/book-a4.typ" --version "$VERSION"
     typst compile --font-path "$FONTS" "$OUTPUT/pdf-a4/book.typ"
     echo "Done: $OUTPUT/pdf-a4/book.pdf"
 }
 
 build_a5() {
     echo "=== Building PDF A5 ==="
-    python "$SCRIPTS/build_pdf.py" $INPUT -o "$OUTPUT/pdf-a5" --template "$TEMPLATES/book-a5.typ" "${VERSION_FLAG[@]}"
+    python "$SCRIPTS/build_pdf.py" $INPUT -o "$OUTPUT/pdf-a5" --template "$TEMPLATES/book-a5.typ" --version "$VERSION"
     typst compile --font-path "$FONTS" "$OUTPUT/pdf-a5/book.typ"
     echo "Done: $OUTPUT/pdf-a5/book.pdf"
 }
 
 build_epub() {
     echo "=== Building EPUB ==="
-    python "$SCRIPTS/build_epub.py" $INPUT -o "$OUTPUT/epub/book.epub" "${VERSION_FLAG[@]}"
+    python "$SCRIPTS/build_epub.py" $INPUT -o "$OUTPUT/epub/book.epub" --version "$VERSION"
     echo "Done: $OUTPUT/epub/book.epub"
 }
 

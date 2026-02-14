@@ -16,17 +16,13 @@ Key blocks: `:::verse` (Hebrew + German translation), `:::commentary`, `:::footn
 
 ## Build Commands
 
+`--version` is required. Local builds output to `build/` (gitignored).
+
 ```bash
-# EPUB
-python scripts/build_epub.py input/5711/[0-9]*.md -o output/5711/epub/book.epub
-
-# PDF A4
-python scripts/build_pdf.py input/5711/[0-9]*.md -o output/5711/pdf-a4 --template templates/typst/book-a4.typ
-typst compile output/5711/pdf-a4/book.typ
-
-# PDF A5
-python scripts/build_pdf.py input/5711/[0-9]*.md -o output/5711/pdf-a5 --template templates/typst/book-a5.typ
-typst compile output/5711/pdf-a5/book.typ
+./build a4 --version 0.1.0
+./build a5 --version 0.1.0
+./build epub --version 0.1.0
+./build all --version 0.1.0
 ```
 
 ## Conventions

@@ -5,3 +5,4 @@ temp_*.md
 *.log
 output/5711/pdf-a4/book.typ
 output/5711/pdf-a5/book.typ
+dist/
