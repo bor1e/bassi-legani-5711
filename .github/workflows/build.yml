@@ -1,0 +1,63 @@
+name: Build books
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'input/**'
+      - 'scripts/**'
+      - 'templates/**'
+      - 'fonts/**'
+      - '.github/workflows/build.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Bump version and push tag
+        id: tag_version
+        uses: mathieudutour/github-tag-action@v6.1
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          default_bump: patch
+          release_branches: main
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.14"
+
+      - name: Install system dependencies
+        run: sudo apt-get update && sudo apt-get install -y pandoc fonts-linuxlibertine
+
+      - uses: typst-community/setup-typst@v4
+
+      - name: Install Python dependencies
+        run: pip install -r requirements.txt
+
+      - name: Inject version into Vorwort
+        run: sed -i 's/{{VERSION}}/${{ steps.tag_version.outputs.new_tag }}/g' input/5711/00-vorwort.md
+
+      - name: Build EPUB
+        run: python scripts/build_epub.py input/5711/[0-9]*.md -o output/5711/epub/book.epub
+
+      - name: Build PDF A4
+        run: |
+          python scripts/build_pdf.py input/5711/[0-9]*.md -o output/5711/pdf-a4 --template templates/typst/book-a4.typ
+          typst compile --font-path fonts/ output/5711/pdf-a4/book.typ
+
+      - name: Build PDF A5
+        run: |
+          python scripts/build_pdf.py input/5711/[0-9]*.md -o output/5711/pdf-a5 --template templates/typst/book-a5.typ
+          typst compile --font-path fonts/ output/5711/pdf-a5/book.typ
+
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Build: Update books to ${{ steps.tag_version.outputs.new_tag }} [skip ci]"
+          file_pattern: "output/5711/epub/book.epub output/5711/pdf-a4/book.pdf output/5711/pdf-a5/book.pdf"

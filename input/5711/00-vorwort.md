@@ -49,5 +49,7 @@ Jud Schewat, 5786 – Nürnberg
 
 © Chabad Nürnberg
 
+Version {{VERSION}}
+
 Verwendung und Vervielfältigung erwünscht
 :::

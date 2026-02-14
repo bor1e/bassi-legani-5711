@@ -7,6 +7,12 @@ import subprocess
 import argparse
 from pathlib import Path
 
+try:
+    import yaml
+except ImportError:
+    import sys
+    sys.exit("Error: PyYAML required. Install with: pip install pyyaml")
+
 EPUB_CSS = os.path.join(os.path.dirname(__file__), '..', 'templates', 'epub.css')
 METADATA = """---
 title: "Bassi LeGani 5711"
@@ -24,6 +30,7 @@ BLOCK_OPENERS: dict[str, tuple[str, str]] = {
 }
 
 COLLECTED_BLOCKS = ('verse', 'glossary', 'footnote')
+TEMP_MARKDOWN_FILE = "temp_book.md"
 
 
 def strip_typst_syntax(text: str) -> str:
@@ -33,14 +40,18 @@ def strip_typst_syntax(text: str) -> str:
     return text
 
 
-def convert_inline(line: str) -> str:
+def convert_inline(line: str, chapter_index: int) -> str:
     line = re.sub(r'\*\*(.*?)\*\*', r'<strong>\1</strong>', line)
     line = re.sub(r'\*(.*?)\*', r'<em>\1</em>', line)
-    line = re.sub(r'\[(\d+)\]', r'<sup>\1</sup>', line)
+    line = re.sub(
+        r'\[(\d+)\]',
+        lambda match: f'<a href="#fn-{chapter_index}-{match.group(1)}"><sup>{match.group(1)}</sup></a>',
+        line,
+    )
     return line + "\n"
 
 
-def parse_verse_content(lines: list[str]) -> str:
+def parse_verse_content(lines: list[str], chapter_index: int) -> str:
     full_text = " ".join(lines)
     hebrew = ""
     german = ""
@@ -53,13 +64,13 @@ def parse_verse_content(lines: list[str]) -> str:
 
     translation_match = re.search(r':translation:(.*?):/translation:', full_text, re.DOTALL)
     if translation_match:
-        german_part = convert_inline(translation_match.group(1).strip()).strip()
+        german_part = convert_inline(translation_match.group(1).strip(), chapter_index).strip()
         german = f'<span class="german-line">{german_part}</span>'
 
     return f'<div class="verse">{hebrew}{german}</div>'
 
 
-def parse_glossary_entry(lines: list[str]) -> str:
+def parse_glossary_entry(lines: list[str], chapter_index: int) -> str:
     term = ""
     definition = ""
     for line in lines:
@@ -68,18 +79,18 @@ def parse_glossary_entry(lines: list[str]) -> str:
         elif line.startswith(':def:'):
             definition = line.replace(':def:', '').strip()
 
-    definition_html = convert_inline(definition).strip()
+    definition_html = convert_inline(definition, chapter_index).strip()
     return f'<div class="glossary-entry"><strong>{term}</strong><br/>{definition_html}</div>'
 
 
-def parse_footnote(lines: list[str]) -> str:
+def parse_footnote(lines: list[str], chapter_index: int) -> str:
     num = lines[0]
     content = " ".join(lines[1:]).strip()
-    content_html = convert_inline(content).strip()
-    return f'<div class="footnote" id="fn-{num}"><sup>{num}</sup> {content_html}</div>'
+    content_html = convert_inline(content, chapter_index).strip()
+    return f'<div class="footnote" id="fn-{chapter_index}-{num}"><sup>{num}</sup> {content_html}</div>'
 
 
-def clean_content(text: str) -> str:
+def convert_markdown_to_html(text: str, chapter_index: int) -> str:
     text = strip_typst_syntax(text)
     lines = text.split('\n')
     output: list[str] = []
@@ -112,7 +123,7 @@ def clean_content(text: str) -> str:
                 output.append('<div style="page-break-after: always;"></div>')
                 continue
             elif line == ':::':
-                output.append(close_block(in_block, block_content))
+                output.append(close_block(in_block, block_content, chapter_index))
                 in_block = None
                 block_content = []
                 continue
@@ -121,38 +132,49 @@ def clean_content(text: str) -> str:
                 if in_block in COLLECTED_BLOCKS:
                     block_content.append(line)
                 else:
-                    output.append(convert_inline(line))
+                    output.append(convert_inline(line, chapter_index))
             else:
-                output.append(convert_inline(line))
+                output.append(convert_inline(line, chapter_index))
             continue
         continue
 
     return '\n'.join(output)
 
 
-def close_block(block_type: str | None, block_content: list[str]) -> str:
+def close_block(block_type: str | None, block_content: list[str], chapter_index: int) -> str:
     if block_type == 'verse':
-        return parse_verse_content(block_content)
+        return parse_verse_content(block_content, chapter_index)
     if block_type == 'glossary':
-        return parse_glossary_entry(block_content)
+        return parse_glossary_entry(block_content, chapter_index)
     if block_type == 'footnote':
-        return parse_footnote(block_content)
+        return parse_footnote(block_content, chapter_index)
     if block_type:
         return '</div>'
     return ''
 
 
-def remove_yaml_frontmatter(content: str) -> str:
-    return re.sub(r'^---[\s\S]+?---', '', content)
+def extract_frontmatter(content: str) -> tuple[dict[str, str], str]:
+    match = re.match(r'^---\s*\n([\s\S]+?)\n---\s*\n?', content)
+    if not match:
+        return {}, content
+    try:
+        metadata = yaml.safe_load(match.group(1)) or {}
+    except yaml.YAMLError:
+        metadata = {}
+    body = content[match.end():]
+    return metadata, body
 
 
 def combine_chapters(input_files: list[Path]) -> str:
     combined = METADATA + "\n"
-    for file_path in sorted(input_files):
+    for chapter_index, file_path in enumerate(sorted(input_files)):
         with open(file_path, 'r', encoding='utf-8') as f:
             content = f.read()
-        content = remove_yaml_frontmatter(content)
-        combined += clean_content(content) + "\n\n"
+        metadata, body = extract_frontmatter(content)
+        title = metadata.get('title', '')
+        if title:
+            combined += f"## {title}\n\n"
+        combined += convert_markdown_to_html(body, chapter_index) + "\n\n"
     return combined
 
 
@@ -174,7 +196,7 @@ def run_pandoc(source_path: str, output_file: Path) -> None:
 def build_epub(input_files: list[Path], output_file: Path) -> None:
     combined_markdown = combine_chapters(input_files)
 
-    temp_md = "temp_book.md"
+    temp_md = TEMP_MARKDOWN_FILE
     try:
         with open(temp_md, 'w', encoding='utf-8') as f:
             f.write(combined_markdown)

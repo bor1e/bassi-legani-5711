@@ -158,12 +158,19 @@ class MarkdownParser:
         highlights: list[Highlight] = []
         while self.pos < len(self.lines):
             line = self.lines[self.pos].strip()
-            if line == ':::': self.pos += 1; break
-            elif line == ':hebrew:': hebrew = self._parse_until(':/hebrew:')
-            elif line == ':translation:': translation = self._parse_until(':/translation:')
-            elif line == ':source:': source = self._parse_until(':/source:').strip()
-            elif line == ':highlight:': highlights = self._parse_highlights()
-            else: self.pos += 1
+            if line == ':::':
+                self.pos += 1
+                break
+            elif line == ':hebrew:':
+                hebrew = self._parse_until(':/hebrew:')
+            elif line == ':translation:':
+                translation = self._parse_until(':/translation:')
+            elif line == ':source:':
+                source = self._parse_until(':/source:').strip()
+            elif line == ':highlight:':
+                highlights = self._parse_highlights()
+            else:
+                self.pos += 1
         return Verse(hebrew.strip(), translation.strip(), source, tuple(highlights))
 
     def _parse_glossary_entry(self) -> GlossaryEntry:
@@ -172,24 +179,34 @@ class MarkdownParser:
         definition = ""
         while self.pos < len(self.lines):
             line = self.lines[self.pos].strip()
-            if line == ':::': self.pos += 1; break
+            if line == ':::':
+                self.pos += 1
+                break
             elif line.startswith(':term:'):
-                term = line.replace(':term:', '').strip(); self.pos += 1
+                term = line.replace(':term:', '').strip()
+                self.pos += 1
             elif line.startswith(':def:'):
-                definition = line.replace(':def:', '').strip(); self.pos += 1
+                definition = line.replace(':def:', '').strip()
+                self.pos += 1
                 while self.pos < len(self.lines) and not self.lines[self.pos].strip().startswith(':'):
-                     next_line = self.lines[self.pos].strip()
-                     if next_line == ':::': break
-                     definition += " " + next_line; self.pos += 1
-            else: self.pos += 1
+                    next_line = self.lines[self.pos].strip()
+                    if next_line == ':::':
+                        break
+                    definition += " " + next_line
+                    self.pos += 1
+            else:
+                self.pos += 1
         return GlossaryEntry(term, definition)
 
     def _parse_until(self, marker: str) -> str:
         self.pos += 1
         collected: list[str] = []
         while self.pos < len(self.lines):
-            if self.lines[self.pos].strip() == marker: self.pos += 1; break
-            collected.append(self.lines[self.pos]); self.pos += 1
+            if self.lines[self.pos].strip() == marker:
+                self.pos += 1
+                break
+            collected.append(self.lines[self.pos])
+            self.pos += 1
         return '\n'.join(collected)
 
     def _parse_highlights(self) -> list[Highlight]:
@@ -197,30 +214,35 @@ class MarkdownParser:
         highlights: list[Highlight] = []
         while self.pos < len(self.lines):
             line = self.lines[self.pos].strip()
-            if line == ':/highlight:': self.pos += 1; break
+            if line == ':/highlight:':
+                self.pos += 1
+                break
             if '|' in line:
                 parts = line.split('|', 1)
                 highlights.append(Highlight(parts[0].strip(), parts[1].strip()))
             self.pos += 1
         return highlights
 
-    def _parse_simple_block(self) -> str:
+    def _collect_block_text(self) -> str:
         self.pos += 1
         collected: list[str] = []
         while self.pos < len(self.lines):
-            if self.lines[self.pos].strip() == ':::': self.pos += 1; break
-            collected.append(self.lines[self.pos]); self.pos += 1
+            if self.lines[self.pos].strip() == ':::':
+                self.pos += 1
+                break
+            collected.append(self.lines[self.pos])
+            self.pos += 1
         return '\n'.join(collected).strip()
 
-    def _parse_commentary(self) -> Commentary: return Commentary(self._parse_simple_block())
-    def _parse_summary(self) -> Summary: return Summary(self._parse_simple_block())
-    def _parse_dedication(self) -> Dedication: return Dedication(self._parse_simple_block())
-    def _parse_infobox(self) -> Infobox: return Infobox(self._parse_simple_block())
+    def _parse_commentary(self) -> Commentary: return Commentary(self._collect_block_text())
+    def _parse_summary(self) -> Summary: return Summary(self._collect_block_text())
+    def _parse_dedication(self) -> Dedication: return Dedication(self._collect_block_text())
+    def _parse_infobox(self) -> Infobox: return Infobox(self._collect_block_text())
 
     def _parse_footnote(self, line: str) -> Footnote:
         match = re.search(r':::footnote\s+(\d+)', line)
         number = int(match.group(1)) if match else 0
-        return Footnote(number, self._parse_simple_block())
+        return Footnote(number, self._collect_block_text())
 
     def _parse_heading(self, line: str, level: int) -> Heading:
         self.pos += 1
@@ -233,7 +255,8 @@ class MarkdownParser:
             current = self.lines[self.pos].strip()
             if not current or current.startswith(':::') or current.startswith('#') or current.startswith('---'):
                 break
-            collected.append(self.lines[self.pos]); self.pos += 1
+            collected.append(self.lines[self.pos])
+            self.pos += 1
         return Paragraph('\n'.join(collected).strip())
 
 class TypstGenerator:
