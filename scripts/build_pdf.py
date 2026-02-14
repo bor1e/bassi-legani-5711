@@ -334,7 +334,7 @@ class TypstGenerator:
             text = text.replace(char, escaped)
         return text
 
-def build_book(chapter_files: list[Path], output_dir: Path, template_path: Path) -> None:
+def build_book(chapter_files: list[Path], output_dir: Path, template_path: Path, version: str | None = None) -> None:
     try:
         with open(template_path, 'r', encoding='utf-8') as f:
             template = f.read()
@@ -356,6 +356,9 @@ def build_book(chapter_files: list[Path], output_dir: Path, template_path: Path)
 
         with open(chapter_file, 'r', encoding='utf-8') as f:
             md_content = f.read()
+
+        if version:
+            md_content = md_content.replace('{{VERSION}}', version)
 
         parser = MarkdownParser(md_content, layout_type=mode)
         chapter = parser.parse()
@@ -380,9 +383,10 @@ if __name__ == '__main__':
     parser.add_argument('input', nargs='+', help='Input markdown files')
     parser.add_argument('-o', '--output', help='Output dir')
     parser.add_argument('--template', default=os.path.join(os.path.dirname(__file__), '..', 'templates', 'typst', 'book-a4.typ'), help='Template file')
+    parser.add_argument('--version', default=None, help='Version string to inject (replaces {{VERSION}} in content)')
     args = parser.parse_args()
 
     if args.input:
         out = Path(args.output) if args.output else Path('.')
         out.mkdir(parents=True, exist_ok=True)
-        build_book([Path(p) for p in args.input], out, Path(args.template))
+        build_book([Path(p) for p in args.input], out, Path(args.template), version=args.version)

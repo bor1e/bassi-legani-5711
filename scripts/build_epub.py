@@ -165,11 +165,13 @@ def extract_frontmatter(content: str) -> tuple[dict[str, str], str]:
     return metadata, body
 
 
-def combine_chapters(input_files: list[Path]) -> str:
+def combine_chapters(input_files: list[Path], version: str | None = None) -> str:
     combined = METADATA + "\n"
     for chapter_index, file_path in enumerate(sorted(input_files)):
         with open(file_path, 'r', encoding='utf-8') as f:
             content = f.read()
+        if version:
+            content = content.replace('{{VERSION}}', version)
         metadata, body = extract_frontmatter(content)
         title = metadata.get('title', '')
         if title:
@@ -193,8 +195,8 @@ def run_pandoc(source_path: str, output_file: Path) -> None:
     print("Success!")
 
 
-def build_epub(input_files: list[Path], output_file: Path) -> None:
-    combined_markdown = combine_chapters(input_files)
+def build_epub(input_files: list[Path], output_file: Path, version: str | None = None) -> None:
+    combined_markdown = combine_chapters(input_files, version=version)
 
     temp_md = TEMP_MARKDOWN_FILE
     try:
@@ -210,6 +212,7 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('input', nargs='+', help='Input markdown files')
     parser.add_argument('-o', '--output', default='book.epub', help='Output file')
+    parser.add_argument('--version', default=None, help='Version string to inject (replaces {{VERSION}} in content)')
     args = parser.parse_args()
 
-    build_epub([Path(p) for p in args.input], Path(args.output))
+    build_epub([Path(p) for p in args.input], Path(args.output), version=args.version)

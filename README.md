@@ -18,25 +18,30 @@ pip install -r requirements.txt
 
 ## Build
 
-### EPUB
+```bash
+./build a4                        # PDF A4 (two-column)
+./build a5                        # PDF A5 (single-column booklet)
+./build epub                      # EPUB
+./build all                       # all formats
+./build a4 --version v1.2.3      # inject version string
+```
+
+### Manual build (without wrapper)
 
 ```bash
+# EPUB
 python scripts/build_epub.py input/5711/[0-9]*.md -o output/5711/epub/book.epub
-```
 
-### PDF (A4, two-column)
-
-```bash
+# PDF A4
 python scripts/build_pdf.py input/5711/[0-9]*.md -o output/5711/pdf-a4 --template templates/typst/book-a4.typ
-typst compile output/5711/pdf-a4/book.typ
-```
+typst compile --font-path fonts/ output/5711/pdf-a4/book.typ
 
-### PDF (A5, single-column booklet)
-
-```bash
+# PDF A5
 python scripts/build_pdf.py input/5711/[0-9]*.md -o output/5711/pdf-a5 --template templates/typst/book-a5.typ
-typst compile output/5711/pdf-a5/book.typ
+typst compile --font-path fonts/ output/5711/pdf-a5/book.typ
 ```
+
+Both `build_pdf.py` and `build_epub.py` accept `--version <version>` to replace `{{VERSION}}` placeholders in the source files (without modifying them). The CI pipeline injects this automatically via git tags.
 
 ## Project Structure
 
