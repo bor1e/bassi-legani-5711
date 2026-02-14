@@ -6,3 +6,5 @@ temp_*.md
 output/5711/pdf-a4/book.typ
 output/5711/pdf-a5/book.typ
 dist/
+docs/glossar.md
+docs/translation-guide.md
