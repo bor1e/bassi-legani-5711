@@ -16,9 +16,10 @@ Key blocks: `:::verse` (Hebrew + German translation), `:::commentary`, `:::footn
 
 ## Build Commands
 
-`--version` is required. Local builds output to `build/` (gitignored).
+Local builds output to `build/` (gitignored). `--version` is optional; omit to hide version info.
 
 ```bash
+./build a4                    # no version displayed
 ./build a4 --version 0.1.0
 ./build a5 --version 0.1.0
 ./build epub --version 0.1.0

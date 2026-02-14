@@ -18,9 +18,10 @@ pip install -r requirements.txt
 
 ## Build
 
-`--version` is required for all builds. Local output goes to `build/` (gitignored).
+Local output goes to `build/` (gitignored). `--version` is optional; omit it to hide version info.
 
 ```bash
+./build a4                        # PDF A4 (no version displayed)
 ./build a4 --version v1.2.3      # PDF A4 (two-column)
 ./build a5 --version v1.2.3      # PDF A5 (single-column booklet)
 ./build epub --version v1.2.3    # EPUB
@@ -42,7 +43,7 @@ python scripts/build_pdf.py input/5711/[0-9]*.md -o build/pdf-a5 --template temp
 typst compile --font-path fonts/ build/pdf-a5/book.typ
 ```
 
-`--version` replaces `{{VERSION}}` placeholders in the source files (without modifying them). The CI pipeline injects this automatically via git tags.
+`--version` replaces `{{VERSION}}` placeholders in the source files (without modifying them). When omitted, lines containing `{{VERSION}}` are removed from the output. The CI pipeline injects this automatically via git tags.
 
 ## Project Structure
 

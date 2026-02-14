@@ -172,6 +172,8 @@ def combine_chapters(input_files: list[Path], version: str | None = None) -> str
             content = f.read()
         if version:
             content = content.replace('{{VERSION}}', version)
+        else:
+            content = re.sub(r'.*\{\{VERSION\}\}.*\n?', '', content)
         metadata, body = extract_frontmatter(content)
         title = metadata.get('title', '')
         if title:
@@ -212,7 +214,7 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('input', nargs='+', help='Input markdown files')
     parser.add_argument('-o', '--output', default='book.epub', help='Output file')
-    parser.add_argument('--version', required=True, help='Version string to inject (replaces {{VERSION}} in content)')
+    parser.add_argument('--version', default=None, help='Version string to inject (replaces {{VERSION}} in content). Omit to hide version.')
     args = parser.parse_args()
 
     build_epub([Path(p) for p in args.input], Path(args.output), version=args.version)

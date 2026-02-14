@@ -360,6 +360,8 @@ def build_book(chapter_files: list[Path], output_dir: Path, template_path: Path,
 
         if version:
             md_content = md_content.replace('{{VERSION}}', version)
+        else:
+            md_content = re.sub(r'.*\{\{VERSION\}\}.*\n?', '', md_content)
 
         parser = MarkdownParser(md_content, layout_type=mode)
         chapter = parser.parse()
@@ -384,7 +386,7 @@ if __name__ == '__main__':
     parser.add_argument('input', nargs='+', help='Input markdown files')
     parser.add_argument('-o', '--output', help='Output dir')
     parser.add_argument('--template', default=os.path.join(os.path.dirname(__file__), '..', 'templates', 'typst', 'book-a4.typ'), help='Template file')
-    parser.add_argument('--version', required=True, help='Version string to inject (replaces {{VERSION}} in content)')
+    parser.add_argument('--version', default=None, help='Version string to inject (replaces {{VERSION}} in content). Omit to hide version.')
     args = parser.parse_args()
 
     if args.input:

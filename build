@@ -9,7 +9,7 @@ OUTPUT="$SCRIPT_DIR/dist"
 FONTS="$SCRIPT_DIR/fonts"
 
 usage() {
-    echo "Usage: ./build <target> --version <version>"
+    echo "Usage: ./build <target> [--version <version>]"
     echo ""
     echo "Targets:"
     echo "  a4      Build PDF (A4 two-column)"
@@ -18,7 +18,7 @@ usage() {
     echo "  all     Build all formats"
     echo ""
     echo "Options:"
-    echo "  --version <version>  (required) Version string to inject (e.g. v1.2.3)"
+    echo "  --version <version>  Version string to inject (e.g. v1.2.3). Omit to hide version."
     exit 1
 }
 
@@ -35,28 +35,28 @@ while [[ $# -gt 0 ]]; do
     esac
 done
 
-if [[ -z "$VERSION" ]]; then
-    echo "Error: --version is required"
-    usage
+VERSION_FLAG=""
+if [[ -n "$VERSION" ]]; then
+    VERSION_FLAG="--version $VERSION"
 fi
 
 build_a4() {
     echo "=== Building PDF A4 ==="
-    python "$SCRIPTS/build_pdf.py" $INPUT -o "$OUTPUT/pdf-a4" --template "$TEMPLATES/book-a4.typ" --version "$VERSION"
+    python "$SCRIPTS/build_pdf.py" $INPUT -o "$OUTPUT/pdf-a4" --template "$TEMPLATES/book-a4.typ" $VERSION_FLAG
     typst compile --font-path "$FONTS" "$OUTPUT/pdf-a4/book.typ"
     echo "Done: $OUTPUT/pdf-a4/book.pdf"
 }
 
 build_a5() {
     echo "=== Building PDF A5 ==="
-    python "$SCRIPTS/build_pdf.py" $INPUT -o "$OUTPUT/pdf-a5" --template "$TEMPLATES/book-a5.typ" --version "$VERSION"
+    python "$SCRIPTS/build_pdf.py" $INPUT -o "$OUTPUT/pdf-a5" --template "$TEMPLATES/book-a5.typ" $VERSION_FLAG
     typst compile --font-path "$FONTS" "$OUTPUT/pdf-a5/book.typ"
     echo "Done: $OUTPUT/pdf-a5/book.pdf"
 }
 
 build_epub() {
     echo "=== Building EPUB ==="
-    python "$SCRIPTS/build_epub.py" $INPUT -o "$OUTPUT/epub/book.epub" --version "$VERSION"
+    python "$SCRIPTS/build_epub.py" $INPUT -o "$OUTPUT/epub/book.epub" $VERSION_FLAG
     echo "Done: $OUTPUT/epub/book.epub"
 }
 
